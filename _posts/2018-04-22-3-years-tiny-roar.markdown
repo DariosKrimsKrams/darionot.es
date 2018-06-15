@@ -5,53 +5,61 @@ date:   2018-04-22 12:00:00 +0100
 categories: blog
 ---
 
-Learnings und Insights aus Mitgründung und -führung von 3 Jahren Tiny Roar:
+Learnings und Insights aus Mitgründung und -führung von 3 Jahren *Tiny Roar*, welches ich zum Jahresende 2017 verlassen habe:
 
 ## Team
 
-Es ist immer gut, in ihren jeweiligen bereichen erfahrene Mitgründer und Mitarbeiter zu haben, dennoch werde ich nächstes Mal zusammen mit einem Projektmanager, einem Geschäftsmann und einem BWLer gründen, da der fehlende Mangel an Prozesserfahrung, Verhandlungserfahrung und Strategischer Weitsicht ruinierende Folgen haben kann.
+Voraussetzung Nr. 1 ist, als Mitgründer und Mitarbeiter Profis in ihrem jeweiligen Positionen zu haben. Voraussetzung Nr 2 ist jedoch, dass man alle Positionen besetzt. Wir waren Software-Entwickler, Game-Designer (Konzeptionen etc.) und Artist (Grafiker), jedoch blieben (meiner Meinung nach wichtige) Positionen unbesetzt: Uns fehlte es an einem Projektmanager, einem Geschäftsmann und einem BWLer. Dieser Mangel an Prozesserfahrung, Verhandlungsgeschick und strategischer Weitsicht kostete uns Geld, Zeit und wir mussten aus Fehlern, die schon jeder Andere vor uns gemacht hat, lernen.
 
 ## Prozesse
 
-* **Fehlende Erfahrung** wie Scrum, Kanban und agile Entwicklung richitg funktioniert. Ich konnte bei einem meiner darauf folgenden Freelance-Kunden gut beobachten, wie dies richtig gemacht wird und es bei der Planung, Einschätzung und Umsetzung hilft. Im Nachhinein würde ich unser Vorgehen als statisches Wasserfallmodell bezeichen - und ich sehe dabei keinen Punkt, es schön reden zu wollen.
-* **Agile Entwicklung** bringt vor allem die Veränderbarkeit auf neue Anforderungen und ein geändertes Marktumfeld einher. Dies ist umso wichtiger in einer so Trend-lastigen Branche wie die der Games. Das Problem: Nie wurde feedback- oder user-driven entwickelt oder nicht einmal ansatzweise versucht, User Feedback frühzeitig einzuholen und dann die Tasks darauf anbauend umzusetzen.
-* Das Problem mit **feedback-driven** liegt schon im System. Wenn ein Publisher 12 Monate im Voraus jeden einzelnen Task geplant und eingeschätzt haben wollen, funktioniert eine feedback-driven Entwicklung nicht. Der Prozess muss es von Anfang an hergeben, dass man sich bei jeder Priorisierung die Frage stellt: "Ist Feature X für den User das Wichtigste?". Das Resultat ist, dass man nach der Entwicklungszeit nur die halb so viele Features im Spiel hat, jedoch diese nicht nur high polished sind, sondern auch sämtliche User Erwartungen erfüllen und übertreffen.
-* **Testmärkte** und Softlaunches ab dem ersten Prototypen helfen ungemein einem User-oriented design nach dem MVP (Minimum Viable Product).
+Obwohl meine Team und ich technisch und in unserern entsp. Disziplinen erfahren und professionell waren, haben unsere Prozesse uns daran gehindert, mit unseren Produkten (Mobile Games) den User zu erreichen und Spieler-Erwartungen zu befriedigen.
 
-Obwohl meine Team und ich technisch gut und auch Game Design und Art-mäßg professionell und erfahren waren, haben unsere Prozesse uns daran gehindert, dass unsere bisherigen Produkte erfolgreich wurden und so hinter den Spieler-Erwartungen zurückblieben.
+* **Fehlende Erfahrung** Scrum, Kanban und agile Entwicklung richitg einzusetzen. Ich konnte bei einem meiner darauf folgenden Freelance-Kunden gut beobachten, was es heißt, zu 100 % agil zu arbeiten und wie eine korrekte Umsetzung von Scrum bei der Planung, Umsetzung und der Software-Qualität hilft. Im Nachhinein würde ich unser Vorgehen als statisches Wasserfallmodell bezeichen - und ich sehe dabei keinen Punkt, es schön reden zu wollen.
+* **Agile Entwicklung** lässt sich wahrscheinlich so beschreiben, dass es die Flexibilität der Anpassung auf veränderte Bedingungen erlaubt und fördert. Das Fehlen der Möglichkeit, auf sich steig veränderndes Marktumfeld reagieren zu können, ging mit statischem am-User-vorbei-entwickeln einher. Leider zwangen uns unsere Prozesse (durch feste Deadlines, und feste Ziele, wann was wie fertig sein sollte) dazu, nicht feedback- oder user-driven zu entwickelt oder selbst nach Einholen von Feedback keine Zeit zu haben, dieses umzusetzen und Priorisierungen und Visionen komplett zu shiften.
+* Das Problem mit **feedback-driven** lag im System. Wenn Publisher 6 oder 12 Monate im Voraus jeden einzelnen Task geplant und eingeschätzt haben wollen, funktioniert eine feedback-driven Entwicklung nicht. Der Prozess muss es von Anfang an hergeben, dass bei jedem Sprit Priorisierung neu in Frage gestellt werden und gefragt wird, was der User will.
+* **Testmärkte**, Softlaunches, Statiken, Umfragen: Es gibt eine Vielzahl an modernen Varianten, User-Empfinden herauszufinden und so Produkte optimal an die gegenwärtigen Bedürfnisse zu optimiern. Ab dem ersten Prototypen kann ein User-oriented workflow dabei helfen, das Produkt zu einem MVP (Minimum Viable Product) zu entwickeln, und jederzeit Feedback erhalten zu können.
+* **Code-Reviews und Austauschen** fehlte leider. Sowohl Teamintern unter Entwicklern als auch Teamübergreifend. 
+* **Nachteile**: Höherer Aufwand in Personal und Entwicklungskosten sowie ein auf Papier weniger Feature-umfassendes und weniger high-polished Produkt ist das Resultat, welches dafür jedoch feedback-driven genau auf die entsp. Zielgruppe zugeschnitten ist.
 
 ## Markt
 
-Berühmte Investoren raten dazu Unternehmen, in Unternehmen zu investieren, die folgende Kriterien auszeichnet:
-* **Laserfokus** auf einen bestimmten Markt / Technologie / Zielgruppe haben, und hier überdurchschnittlich gut sein
-* **Burggraben / Monopol** aufbauen, weil sie z.B. als erstes im Markt sind oder sich der Konkurrenz gegenüber abhehen können.
+Was ist das beste Investment, als in ein eigenes Start-Up? Nachfolgend die Betrachtung der Lage von *Tiny Roar* aus Sicht eines außenstehenden Investors. Silicon Valley Investor Peter Thiel rät dazu Unternehmen, in Unternehmen zu investieren, die folgende Kriterien auszeichnet:
 
-Was ist also das bessere Investment, als in ein eigenes Unternehmen? Nach diesen Regeln würde ich nicht wieder in ein Unternehmen investieren, welches die zwei oben genannten Kriterien nicht erfüllt.
+* **Monopol**: Konkurrenz vernichtet Gewinne. Kann das Unternehmen ein (potentielles) Monopol / Burggraben aufbauen, weil es z.B. als Erstes in einem neuen Markt ist oder sich der Konkurrenz gegenüber abhehen kann. Dabei rät Peter Thiel zu folgenden vier Kriterien:
+* * Eigene Technologie
+* * Netzwerkeffekte
+* * Größenvorteil
+* * Markenbildung
+* **Laserfokus** auf einen Markt oder eine Zielgruppe zu haben, und hier überdurchschnittlich gut sein statt breit zu streuen.
+* **Zukunft**: Zur Fragenstellung, wird der Markt oder die Nachfragen in 10 Jahren noch existieren.
 
-Das Problem an der weltweiten Games-Branche ist, dass es entweder 0 oder 100 gibt - also entweder Durchbruch mit Millionen-Umsätzen oder gar kein Umsatz. Dies ist auf vielen Quellen nachzulesen, jedoch schwer sich wirklich vorzustellen. Hinzu kommen Probleme wie fehlende politische Unterstützung, wenig vorhandener professioneller Erfahrungsaustausch und so gut wie garnicht vorhandene Förderung (bis auf Kanda).
+Nach diesen Regeln würde ich nicht wieder in ein Unternehmen investieren, welches die oben genannten Kriterien nicht erfüllt. *Tiny Roar* kämpft in einem stark konkurrierendem Marktumfeld. Das Problem an der weltweiten Games-Branche ist, dass es entweder 0 oder 100 gibt - also entweder gelingt ein Durchbruch mit Millionen-Umsätzen oder gar kein Umsatz (in Zahlen: 0 €). Es ist extrem schwer, sich diese Verteilung wirklich klarzumachen.
 
-## Geschäftsidee
+Hinzu kommen Probleme wie fehlende politische Unterstützung, wenig vorhandener professioneller Erfahrungsaustausch und so gut wie garnicht vorhandene Förderung (bis auf Kanda).
 
-* **Eigene Games entwickeln**, das war anfangs unsere Geschäftsidee. Jedoch ist uns dies lediglich mit unserem ersten Game Jump the Rope gelungen. Jedes weitere Game wurde von mal zu mal mehr Auftragsarbeit als Eigenentwicklungen, was soweit ging, dass wir irgendwann nicht mal mehr selbst gepitchte Ideen umsetzten, sondern wir Ideen von Publishern umsetzten - also reines Agentur- / Dienstleistungsbusiness.
-* **Agentur- / Dienstleistungsgeschäft** ist im Grunde ja nicht schlecht, und wir konnten dadurch einen gewissen Umsatz verzeichnen, jedoch nicht unsere Vision war. Zudem konnten wir durch das im Vornherein Verkaufen der Produkte nur noch minimale / garkeine Gewinnbeteiligungen verzeichnen. Immerhin konnten wir uns durch die Aufträge mind. 3 Jahre über Wasser halten.
-* **Publisher**: Ob Tiny Roar früher oder später verstärkt in Richtung eigene Projekte geht: Der Plan ist das natürlich, jedoch muss man hinterfragen, wie man das erreichen will. Stand jetzt wird versucht kleine Nebenbei-Projekten prototypreif zu bekommen, um sich damit unabhängig machen zu können, z.B. als Pitch mit Publishern, Crownfunding oder selbstfinanziert.
+## Business Plan
+
+* **Eigene Games entwickeln** war anfangs unsere Geschäftsidee. Jedoch ist uns dies lediglich mit unserem ersten Produkt *Jump the Rope* gelungen. Jedes Weitere wurde von mal zu mal mehr Auftragsarbeit als Eigenentwicklungen, was soweit ging, dass wir nicht mal mehr selbst gepitchte Ideen umsetzten, sondern Ideen von Publishern umsetzten - also als reines Dienstleister aufgetreten sind.
+* **Agentur- / Dienstleistungsgeschäft** ist ja im Grunde nicht schlecht, und wir konnten uns dadurch mehr als drei Jahre über Wasser halten - entfernten uns jedoch immer weitere von unserer Vision. Zudem hätten wir selbst im Erfolgsfall durch das im Vornherein Verkaufen der Produkte nur noch minimale bis garkeine Gewinnbeteiligungen verzeichnen können, wofür dann wiederum für einen langfristige Sicherheit unsere Stunden/Tagessätze zu gering waren.
+* **Publisher**: Unser Plan war, wieder verstärkt in eigene Produkte (in Form von Prototypen) zu investieren. Wir wollten durch Nebenbei-Projekte und Praktikanten erreichen, hatten jedoch kaum bis keine eigenen Resourcen, dies zu bewerkstelligen. Nebenbei wurde und wird ständig versucht, potentiell zukünftigen Publishern Ideen zu pitchen.
 
 ## Leadership Principles
 
-Welche Qualifikationen sollten alle Mitarbeiten mitbringen? Um diese Frage zu beantworten, würde ich gerne auf die Amazon Leadership Principles verweisen. Darin wird von Mitarbeiten bewisse Qualifikationen wie "Ownership" und "Invent and Simplify" gefordert sowie, ist als Grundlage zu sehen, worauf Entscheidungen beruhen sollen. Auszüge:
+Welche Qualifikationen sollten alle Mitarbeiten mitbringen? Um diese Frage zu beantworten, würde ich gerne auf die Amazon Leadership Principles verweisen. Darin soll sich jeder Mitarbeiter als *Leader* sehen, und sollen als Grundlage für Entscheidungen über zukünftige Richtung dienen. Ein kleines Auszug:
 
 * **Customer Obsession** / 100 % kundenorientiert: Der Kunde bleibt immer im Fokus.
 * **Invent and Simplify** / Erfinden und Vereinfachen: Innovativ und einfallsreich sein und immer wieder Wege zu finden, Dinge zu vereinfachen.
 * **Hire and Develop the Best** – Die besten Mitarbeiter einstellen und weiterentwickeln: Leader setzen die Messlatte mit jeder Einstellung und Beförderung höher.
 * **Think Big** – In großen Dimensionen denken: Leader entwickeln und kommunizieren eine mutige Vision und inspirieren zu großen Ergebnissen.
 
-Diese Richtlinien als Grundlage für Unternehmen zu nutzen, ist denke ich sinnvoll und für mich in Zukunft ein Muss. Bei einem zukünftigen Business würde ich verstärkt auf die Beachtung dieser Richtlinien eingehen und potentielle Mitgründer und -arbeiter danach auswählen.
+Diese Richtlinien als Grundlage für Unternehmen zu nutzen, sehe ich mittlerweile als essentiell an und bei einer zukünftigen Gründung würde ich verstärkt nach diesen Richtlinien potentielle Mitgründer und -arbeiter auswählen und als Regelwerk aufstellen.
 
 ## Finanzierung
 
-Wie oben schon geschrieben, war und ist das Ziel, eigene Produkte zu entwickeln statt Auftragsarbeiten. Eine Auflistung der Mögl. in der Games-Branche gibt und welche Vor- / Nachteile diese mitbringen:
+Wie oben schon geschrieben, war und ist das Ziel, eigene Produkte zu erfinden statt als Dienstleister aufzutreten. Folgende Möglichkeiten bietet die Games-Branche:
 
-* **Crowdfunding**: Mit Kickstarter können einzelne Unternehmen profitabel entwickeln, jedoch geht die Nutzung mehr in Richtung, dies als Marketingkanel und für User-Feedback zu nutzen, als dass man von den Einkünften sein Team komplett und über Jahre finanzieren kann. Des Weiteren bedeutet die Nutzung von Crowdfunding 1) ein großes Produkt (vorzugsweise PC oder Konsole) zu planen und 2) seeehr viel Vorarbeit für Prototype und Kampagnen-Vorbereitung und -Nachbereitung zu investieren.
+* **Crowdfunding**: Mit Plattformen wie Kickstarter und Indiegogo können zwar einzelne Unternehmen profitabel entwickeln, jedoch geht die Nutzung mehr in Richtung, dies als Marketingkanel und für User-Feedback zu nutzen, als dass man sein Team komplett und über Jahre damit finanzieren kann. Des Weiteren verlangen Zielgruppen bei Crowdfunding 1) ein großes Produkt (vorzugsweise PC- oder Konsolen-Game) 2) sehr viel Vorarbeit für Prototypen und in die eigentliche Kampagnen-Vorbereitung und regelmäßgen Pflege zu investieren.
 * **Publisher**: Viele Indie-Entwickler stehen einer kleinen Anzahl von Publishern gegenüber. Dieses Nachfrageoligopol (oder Oligopson) erschwert die Kooperation und drückt (meiner Meinung nach) die Preise für Indie-Entwicklern (ganz zu schweigen, wenn Teile der europäischen Gamesbranche in günstigeren Länder wie Polen sitzt oder Studenten sind). Durch die sehr hohe Konkurrenz rate ich zur Distanzierung von unterbezahlten Publisher-Deals.
 * **Investoren / Businessangels**: Die meiner Meinung nach die beste Möglichkeit, um in Deutschland sinnvoll eigene Produkte zu entwickeln. Jedoch im Gegensatz zu anderen Software-Branchen die gleich Nachteile, wie starke Konkurrenz.
 * **Kredit / Selbstfinanziert**: Sag ich nichts zu, muss jeder selbst wissen.
@@ -67,7 +75,6 @@ Tiny Roar hat in den letzten drei Jahren einen stetig steigenden (und jeweils mi
 * **Teurer werden**: Des Weiteren bin ich der Meinung, dass man teurer werden kann / sollte / muss, um einen (größeren) Puffer aufzubauen und langfristig besser zu planen sowie größere Projekte zu stemmen. Und nicht zuletzt, um seine Mitarbeiter besser bezahlen zu können, sonst arbeiten diese bald woanders.
 
 ![Tiny Roar](/images/tinydrawing.png)
-
 
 ### Schlusswort
 Vielen Dank an Robert, Maurice, Sebastian und unsere Praktikanten, die uns auf dem Abenteuer zur Seite standen :)
