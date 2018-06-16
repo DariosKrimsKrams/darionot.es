@@ -1,0 +1,19 @@
+a.site-title,
+a.site-title:visited {
+	color: #fff;
+	text-decoration: none;
+}
+
+header.site-header {
+	background: linear-gradient(45deg,#00ae7b,#0081bf);
+	border-top: 0;
+}
+header.site-header:after {
+	position: absolute;
+    top: 56px;
+    content: "";
+    display: block;
+    height: 4px;
+    width: 100%;
+	background: linear-gradient(90deg,#8CB14A,#86D18C 25%,#72C9B6 50%,#4AB7CB 75%,#0EA2E2);
+}
