@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dario D. Müller
-email: dario-domi@hotmail.de
+email: xxx
 description: Do Epic Shit
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://darionot.es/" # the base hostname & protocol for your site, e.g. http://example.com

@@ -7,11 +7,11 @@ categories: blog
 
 Learnings und Insights aus Mitgründung und -führung von 3 Jahren *Tiny Roar*, welches ich zum Jahresende 2017 verlassen habe:
 
-## Team
+## 1. Team
 
 Voraussetzung Nr. 1 ist, als Mitgründer und Mitarbeiter Profis in ihrem jeweiligen Positionen zu haben. Voraussetzung Nr 2 ist jedoch, dass man alle Positionen besetzt. Wir waren Software-Entwickler, Game-Designer (Konzeptionen etc.) und Artist (Grafiker), jedoch blieben (meiner Meinung nach wichtige) Positionen unbesetzt: Uns fehlte es an einem Projektmanager, einem Geschäftsmann und einem BWLer. Dieser Mangel an Prozesserfahrung, Verhandlungsgeschick und strategischer Weitsicht kostete uns Geld, Zeit und wir mussten aus Fehlern, die schon jeder Andere vor uns gemacht hat, lernen.
 
-## Prozesse
+## 2. Prozesse
 
 Obwohl meine Team und ich technisch und in unserern entsp. Disziplinen erfahren und professionell waren, haben unsere Prozesse uns daran gehindert, mit unseren Produkten (Mobile Games) den User zu erreichen und Spieler-Erwartungen zu befriedigen.
 
@@ -22,15 +22,17 @@ Obwohl meine Team und ich technisch und in unserern entsp. Disziplinen erfahren 
 * **Code-Reviews und Austauschen** fehlte leider. Sowohl Teamintern unter Entwicklern als auch Teamübergreifend. 
 * **Nachteile**: Höherer Aufwand in Personal und Entwicklungskosten sowie ein auf Papier weniger Feature-umfassendes und weniger high-polished Produkt ist das Resultat, welches dafür jedoch feedback-driven genau auf die entsp. Zielgruppe zugeschnitten ist.
 
-## Markt
+---
+
+## 3. Markt
 
 Was ist das beste Investment, als in ein eigenes Start-Up? Nachfolgend die Betrachtung der Lage von *Tiny Roar* aus Sicht eines außenstehenden Investors. Silicon Valley Investor Peter Thiel rät dazu Unternehmen, in Unternehmen zu investieren, die folgende Kriterien auszeichnet:
 
 * **Monopol**: Konkurrenz vernichtet Gewinne. Kann das Unternehmen ein (potentielles) Monopol / Burggraben aufbauen, weil es z.B. als Erstes in einem neuen Markt ist oder sich der Konkurrenz gegenüber abhehen kann. Dabei rät Peter Thiel zu folgenden vier Kriterien:
-* * Eigene Technologie
-* * Netzwerkeffekte
-* * Größenvorteil
-* * Markenbildung
+  * Eigene Technologie
+  * Netzwerkeffekte
+  * Größenvorteil
+  * Markenbildung
 * **Laserfokus** auf einen Markt oder eine Zielgruppe zu haben, und hier überdurchschnittlich gut sein statt breit zu streuen.
 * **Zukunft**: Zur Fragenstellung, wird der Markt oder die Nachfragen in 10 Jahren noch existieren.
 
@@ -38,13 +40,15 @@ Nach diesen Regeln würde ich nicht wieder in ein Unternehmen investieren, welch
 
 Hinzu kommen Probleme wie fehlende politische Unterstützung, wenig vorhandener professioneller Erfahrungsaustausch und so gut wie garnicht vorhandene Förderung (bis auf Kanda).
 
-## Business Plan
+## 4. Business Plan
 
 * **Eigene Games entwickeln** war anfangs unsere Geschäftsidee. Jedoch ist uns dies lediglich mit unserem ersten Produkt *Jump the Rope* gelungen. Jedes Weitere wurde von mal zu mal mehr Auftragsarbeit als Eigenentwicklungen, was soweit ging, dass wir nicht mal mehr selbst gepitchte Ideen umsetzten, sondern Ideen von Publishern umsetzten - also als reines Dienstleister aufgetreten sind.
 * **Agentur- / Dienstleistungsgeschäft** ist ja im Grunde nicht schlecht, und wir konnten uns dadurch mehr als drei Jahre über Wasser halten - entfernten uns jedoch immer weitere von unserer Vision. Zudem hätten wir selbst im Erfolgsfall durch das im Vornherein Verkaufen der Produkte nur noch minimale bis garkeine Gewinnbeteiligungen verzeichnen können, wofür dann wiederum für einen langfristige Sicherheit unsere Stunden/Tagessätze zu gering waren.
 * **Publisher**: Unser Plan war, wieder verstärkt in eigene Produkte (in Form von Prototypen) zu investieren. Wir wollten durch Nebenbei-Projekte und Praktikanten erreichen, hatten jedoch kaum bis keine eigenen Resourcen, dies zu bewerkstelligen. Nebenbei wurde und wird ständig versucht, potentiell zukünftigen Publishern Ideen zu pitchen.
 
-## Leadership Principles
+---
+
+## 5. Leadership Principles
 
 Welche Qualifikationen sollten alle Mitarbeiten mitbringen? Um diese Frage zu beantworten, würde ich gerne auf die Amazon Leadership Principles verweisen. Darin soll sich jeder Mitarbeiter als *Leader* sehen, und sollen als Grundlage für Entscheidungen über zukünftige Richtung dienen. Ein kleines Auszug:
 
@@ -55,7 +59,7 @@ Welche Qualifikationen sollten alle Mitarbeiten mitbringen? Um diese Frage zu be
 
 Diese Richtlinien als Grundlage für Unternehmen zu nutzen, sehe ich mittlerweile als essentiell an und bei einer zukünftigen Gründung würde ich verstärkt nach diesen Richtlinien potentielle Mitgründer und -arbeiter auswählen und als Regelwerk aufstellen.
 
-## Finanzierung
+## 6. Finanzierung
 
 Wie oben schon geschrieben, war und ist das Ziel, eigene Produkte zu erfinden statt als Dienstleister aufzutreten. Folgende Möglichkeiten bietet die Games-Branche:
 
@@ -65,7 +69,9 @@ Wie oben schon geschrieben, war und ist das Ziel, eigene Produkte zu erfinden st
 * **Kredit / Selbstfinanziert**: Sag ich nichts zu, muss jeder selbst wissen.
 * **Förderung**: In Kanada sehr gut, in Deutschland kaum vorhanden bzw die Vorhandenen sind nur für narrative Produkte und man muss bei den Ausschreibungen vorweisen, dass man bereits narrative Produkte entwickelt hat. Hinzu kommt ein nicht zu unterschätzender Aufwand für Papierkram und Pitch.
 
-## Umsatz
+---
+
+## 7. Umsatz
 
 Tiny Roar hat in den letzten drei Jahren einen stetig steigenden (und jeweils mind. 100 % als im Vorjahr höheren) Jahrenumsatz erzielt. Jeweils mit einem wachsenden Team zwischen 3 und 6 Leuten (inkl. Praktikanten).
 
@@ -76,5 +82,6 @@ Tiny Roar hat in den letzten drei Jahren einen stetig steigenden (und jeweils mi
 
 ![Tiny Roar](/images/tinydrawing.png)
 
-### Schlusswort
+### 8. Schlusswort
+
 Vielen Dank an Robert, Maurice, Sebastian und unsere Praktikanten, die uns auf dem Abenteuer zur Seite standen :)

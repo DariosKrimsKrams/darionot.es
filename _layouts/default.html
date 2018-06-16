@@ -7,9 +7,13 @@
 
     {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
+	{% if page.layout == 'post' %}
+	<main class="page-content post-content" aria-label="Content">
+	{% else %} 
+	<main class="page-content home-content" aria-label="Content">
+	{% endif %}
       <div class="wrapper">
-        {{ content }}
+		{{ content }}
       </div>
     </main>
 
