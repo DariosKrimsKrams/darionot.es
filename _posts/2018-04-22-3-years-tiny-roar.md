@@ -5,7 +5,7 @@ date:   2018-04-22 12:00:00 +0100
 categories: blog
 ---
 
-Learnings und Insights aus Mitgründung und -führung von 3 Jahren *Tiny Roar*, welches ich zum Jahresende 2017 verlassen habe:
+Learnings und Insights aus Mitgründung und -führung von 3 Jahren [Tiny Roar][tinyroar], welches ich zum Jahresende 2017 verlassen habe:
 
 ## 1. Team
 
@@ -85,3 +85,6 @@ Tiny Roar hat in den letzten drei Jahren einen stetig steigenden (und jeweils mi
 ### 8. Schlusswort
 
 Vielen Dank an Robert, Maurice, Sebastian und unsere Praktikanten, die uns auf dem Abenteuer zur Seite standen :)
+
+
+[tinyroar]: https://tinyroar.de

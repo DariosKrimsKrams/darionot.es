@@ -21,7 +21,7 @@ list
 * [x] headline
 * [ ] table
 * [ ] image
-hier gehts zu [google][google].
+hier gehts zu [Goooooooogle][google].
 
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
