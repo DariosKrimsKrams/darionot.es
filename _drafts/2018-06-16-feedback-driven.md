@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Useroriente Produkteinführung #feedbackdriven"
+title:  "#feedbackdriven"
 date:   2018-06-15 18:53:30 +0100
 categories: blog
 ---
+
+
 
 in diesem Post möchte ich mich mal einem Thema widmen, mit welchem ich mich spätestens seit Gründung von Tiny Roar stärker auseinandersetze. 
 

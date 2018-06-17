@@ -1,15 +1,18 @@
 ---
 layout: post
-title:  "3 Years Tiny Roar"
+title:  "Lessons learned of 3 Years Tiny Roar"
 date:   2018-04-22 12:00:00 +0100
 categories: blog
 ---
 
+![Tiny Roar](/images/3yrtinyroar_teaser.jpg)
 Learnings und Insights aus Mitgründung und -führung von 3 Jahren [Tiny Roar][tinyroar], welches ich zum Jahresende 2017 verlassen habe:
 
 ## 1. Team
 
-Voraussetzung Nr. 1 ist, als Mitgründer und Mitarbeiter Profis in ihrem jeweiligen Positionen zu haben. Voraussetzung Nr 2 ist jedoch, dass man alle Positionen besetzt. Wir waren Software-Entwickler, Game-Designer (Konzeptionen etc.) und Artist (Grafiker), jedoch blieben (meiner Meinung nach wichtige) Positionen unbesetzt: Uns fehlte es an einem Projektmanager, einem Geschäftsmann und einem BWLer. Dieser Mangel an Prozesserfahrung, Verhandlungsgeschick und strategischer Weitsicht kostete uns Geld, Zeit und wir mussten aus Fehlern, die schon jeder Andere vor uns gemacht hat, lernen.
+* Regel Nr. 1 ist, dass die Mitgründer und -arbeiter die Besten in ihrem jeweiligen Handwerk sind.
+* Regel Nr. 2 ist, dass alle Positionen besetzt sind.
+* Unser Fehler: Wir waren Software-Entwickler, Game-Designer und Artist, jedoch fehlte uns notwenige Erfahrung rund um einen Projektmanager, einem Geschäftsmann und einem BWLer, was sich im Mangel an Prozesserfahrung, Verhandlungsgeschick und strategischer Weitsicht bemerkbar machte. Dies kostete uns Geld, Zeit und wir mussten aus dummen Fehlern lernen - die schon jeder Andere vor uns gemacht hatte.
 
 ## 2. Prozesse
 
@@ -28,11 +31,7 @@ Obwohl meine Team und ich technisch und in unserern entsp. Disziplinen erfahren 
 
 Was ist das beste Investment, als in ein eigenes Start-Up? Nachfolgend die Betrachtung der Lage von *Tiny Roar* aus Sicht eines außenstehenden Investors. Silicon Valley Investor Peter Thiel rät dazu Unternehmen, in Unternehmen zu investieren, die folgende Kriterien auszeichnet:
 
-* **Monopol**: Konkurrenz vernichtet Gewinne. Kann das Unternehmen ein (potentielles) Monopol / Burggraben aufbauen, weil es z.B. als Erstes in einem neuen Markt ist oder sich der Konkurrenz gegenüber abhehen kann. Dabei rät Peter Thiel zu folgenden vier Kriterien:
-  * Eigene Technologie
-  * Netzwerkeffekte
-  * Größenvorteil
-  * Markenbildung
+* **Monopol**: Konkurrenz vernichtet Gewinne. Kann das Unternehmen ein (potentielles) Monopol / Burggraben aufbauen, weil es z.B. als Erstes in einem neuen Markt ist oder sich der Konkurrenz gegenüber abhehen kann.
 * **Laserfokus** auf einen Markt oder eine Zielgruppe zu haben, und hier überdurchschnittlich gut sein statt breit zu streuen.
 * **Zukunft**: Zur Fragenstellung, wird der Markt oder die Nachfragen in 10 Jahren noch existieren.
 

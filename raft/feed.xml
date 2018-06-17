@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-17T21:32:56+02:00</updated><id>http://localhost:4000/</id><title type="html">Dario D. Müller</title><subtitle>Do Epic Shit</subtitle><entry><title type="html">3 Years Tiny Roar</title><link href="http://localhost:4000/blog/2018/04/22/3-years-tiny-roar.html" rel="alternate" type="text/html" title="3 Years Tiny Roar" /><published>2018-04-22T13:00:00+02:00</published><updated>2018-04-22T13:00:00+02:00</updated><id>http://localhost:4000/blog/2018/04/22/3-years-tiny-roar</id><content type="html" xml:base="http://localhost:4000/blog/2018/04/22/3-years-tiny-roar.html">&lt;p&gt;&lt;img src=&quot;/images/3yrtinyroar_teaser.jpg&quot; alt=&quot;Tiny Roar&quot; /&gt;
+Learnings und Insights aus Mitgründung und -führung von 3 Jahren &lt;a href=&quot;https://tinyroar.de&quot;&gt;Tiny Roar&lt;/a&gt;, welches ich zum Jahresende 2017 verlassen habe:&lt;/p&gt;
+
+&lt;h2 id=&quot;1-team&quot;&gt;1. Team&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Regel Nr. 1 ist, dass die Mitgründer und -arbeiter die Besten in ihrem jeweiligen Handwerk sind.&lt;/li&gt;
+  &lt;li&gt;Regel Nr. 2 ist, dass alle Positionen besetzt sind.&lt;/li&gt;
+  &lt;li&gt;Unser Fehler: Wir waren Software-Entwickler, Game-Designer und Artist, jedoch fehlte uns notwenige Erfahrung rund um einen Projektmanager, einem Geschäftsmann und einem BWLer, was sich im Mangel an Prozesserfahrung, Verhandlungsgeschick und strategischer Weitsicht bemerkbar machte. Dies kostete uns Geld, Zeit und wir mussten aus dummen Fehlern lernen - die schon jeder Andere vor uns gemacht hatte.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2-prozesse&quot;&gt;2. Prozesse&lt;/h2&gt;
+
+&lt;p&gt;Obwohl meine Team und ich technisch und in unserern entsp. Disziplinen erfahren und professionell waren, haben unsere Prozesse uns daran gehindert, mit unseren Produkten (Mobile Games) den User zu erreichen und Spieler-Erwartungen zu befriedigen.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Fehlende Erfahrung&lt;/strong&gt; Scrum, Kanban und agile Entwicklung richitg einzusetzen. Ich konnte bei einem meiner darauf folgenden Freelance-Kunden gut beobachten, was es heißt, zu 100 % agil zu arbeiten und wie eine korrekte Umsetzung von Scrum bei der Planung, Umsetzung und der Software-Qualität hilft. Im Nachhinein würde ich unser Vorgehen als statisches Wasserfallmodell bezeichen - und ich sehe dabei keinen Punkt, es schön reden zu wollen.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Agile Entwicklung&lt;/strong&gt; lässt sich wahrscheinlich so beschreiben, dass es die Flexibilität der Anpassung auf veränderte Bedingungen erlaubt und fördert. Das Fehlen der Möglichkeit, auf sich steig veränderndes Marktumfeld reagieren zu können, ging mit statischem am-User-vorbei-entwickeln einher. Leider zwangen uns unsere Prozesse (durch feste Deadlines, und feste Ziele, wann was wie fertig sein sollte) dazu, nicht feedback- oder user-driven zu entwickelt oder selbst nach Einholen von Feedback keine Zeit zu haben, dieses umzusetzen und Priorisierungen und Visionen komplett zu shiften.&lt;/li&gt;
+  &lt;li&gt;Das Problem mit &lt;strong&gt;feedback-driven&lt;/strong&gt; lag im System. Wenn Publisher 6 oder 12 Monate im Voraus jeden einzelnen Task geplant und eingeschätzt haben wollen, funktioniert eine feedback-driven Entwicklung nicht. Der Prozess muss es von Anfang an hergeben, dass bei jedem Sprit Priorisierung neu in Frage gestellt werden und gefragt wird, was der User will.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Testmärkte&lt;/strong&gt;, Softlaunches, Statiken, Umfragen: Es gibt eine Vielzahl an modernen Varianten, User-Empfinden herauszufinden und so Produkte optimal an die gegenwärtigen Bedürfnisse zu optimiern. Ab dem ersten Prototypen kann ein User-oriented workflow dabei helfen, das Produkt zu einem MVP (Minimum Viable Product) zu entwickeln, und jederzeit Feedback erhalten zu können.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Code-Reviews und Austauschen&lt;/strong&gt; fehlte leider. Sowohl Teamintern unter Entwicklern als auch Teamübergreifend.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nachteile&lt;/strong&gt;: Höherer Aufwand in Personal und Entwicklungskosten sowie ein auf Papier weniger Feature-umfassendes und weniger high-polished Produkt ist das Resultat, welches dafür jedoch feedback-driven genau auf die entsp. Zielgruppe zugeschnitten ist.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-markt&quot;&gt;3. Markt&lt;/h2&gt;
+
+&lt;p&gt;Was ist das beste Investment, als in ein eigenes Start-Up? Nachfolgend die Betrachtung der Lage von &lt;em&gt;Tiny Roar&lt;/em&gt; aus Sicht eines außenstehenden Investors. Silicon Valley Investor Peter Thiel rät dazu Unternehmen, in Unternehmen zu investieren, die folgende Kriterien auszeichnet:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Monopol&lt;/strong&gt;: Konkurrenz vernichtet Gewinne. Kann das Unternehmen ein (potentielles) Monopol / Burggraben aufbauen, weil es z.B. als Erstes in einem neuen Markt ist oder sich der Konkurrenz gegenüber abhehen kann.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Laserfokus&lt;/strong&gt; auf einen Markt oder eine Zielgruppe zu haben, und hier überdurchschnittlich gut sein statt breit zu streuen.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Zukunft&lt;/strong&gt;: Zur Fragenstellung, wird der Markt oder die Nachfragen in 10 Jahren noch existieren.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nach diesen Regeln würde ich nicht wieder in ein Unternehmen investieren, welches die oben genannten Kriterien nicht erfüllt. &lt;em&gt;Tiny Roar&lt;/em&gt; kämpft in einem stark konkurrierendem Marktumfeld. Das Problem an der weltweiten Games-Branche ist, dass es entweder 0 oder 100 gibt - also entweder gelingt ein Durchbruch mit Millionen-Umsätzen oder gar kein Umsatz (in Zahlen: 0 €). Es ist extrem schwer, sich diese Verteilung wirklich klarzumachen.&lt;/p&gt;
+
+&lt;p&gt;Hinzu kommen Probleme wie fehlende politische Unterstützung, wenig vorhandener professioneller Erfahrungsaustausch und so gut wie garnicht vorhandene Förderung (bis auf Kanda).&lt;/p&gt;
+
+&lt;h2 id=&quot;4-business-plan&quot;&gt;4. Business Plan&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Eigene Games entwickeln&lt;/strong&gt; war anfangs unsere Geschäftsidee. Jedoch ist uns dies lediglich mit unserem ersten Produkt &lt;em&gt;Jump the Rope&lt;/em&gt; gelungen. Jedes Weitere wurde von mal zu mal mehr Auftragsarbeit als Eigenentwicklungen, was soweit ging, dass wir nicht mal mehr selbst gepitchte Ideen umsetzten, sondern Ideen von Publishern umsetzten - also als reines Dienstleister aufgetreten sind.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Agentur- / Dienstleistungsgeschäft&lt;/strong&gt; ist ja im Grunde nicht schlecht, und wir konnten uns dadurch mehr als drei Jahre über Wasser halten - entfernten uns jedoch immer weitere von unserer Vision. Zudem hätten wir selbst im Erfolgsfall durch das im Vornherein Verkaufen der Produkte nur noch minimale bis garkeine Gewinnbeteiligungen verzeichnen können, wofür dann wiederum für einen langfristige Sicherheit unsere Stunden/Tagessätze zu gering waren.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Publisher&lt;/strong&gt;: Unser Plan war, wieder verstärkt in eigene Produkte (in Form von Prototypen) zu investieren. Wir wollten durch Nebenbei-Projekte und Praktikanten erreichen, hatten jedoch kaum bis keine eigenen Resourcen, dies zu bewerkstelligen. Nebenbei wurde und wird ständig versucht, potentiell zukünftigen Publishern Ideen zu pitchen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-leadership-principles&quot;&gt;5. Leadership Principles&lt;/h2&gt;
+
+&lt;p&gt;Welche Qualifikationen sollten alle Mitarbeiten mitbringen? Um diese Frage zu beantworten, würde ich gerne auf die Amazon Leadership Principles verweisen. Darin soll sich jeder Mitarbeiter als &lt;em&gt;Leader&lt;/em&gt; sehen, und sollen als Grundlage für Entscheidungen über zukünftige Richtung dienen. Ein kleines Auszug:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Customer Obsession&lt;/strong&gt; / 100 % kundenorientiert: Der Kunde bleibt immer im Fokus.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Invent and Simplify&lt;/strong&gt; / Erfinden und Vereinfachen: Innovativ und einfallsreich sein und immer wieder Wege zu finden, Dinge zu vereinfachen.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hire and Develop the Best&lt;/strong&gt; – Die besten Mitarbeiter einstellen und weiterentwickeln: Leader setzen die Messlatte mit jeder Einstellung und Beförderung höher.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Think Big&lt;/strong&gt; – In großen Dimensionen denken: Leader entwickeln und kommunizieren eine mutige Vision und inspirieren zu großen Ergebnissen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Diese Richtlinien als Grundlage für Unternehmen zu nutzen, sehe ich mittlerweile als essentiell an und bei einer zukünftigen Gründung würde ich verstärkt nach diesen Richtlinien potentielle Mitgründer und -arbeiter auswählen und als Regelwerk aufstellen.&lt;/p&gt;
+
+&lt;h2 id=&quot;6-finanzierung&quot;&gt;6. Finanzierung&lt;/h2&gt;
+
+&lt;p&gt;Wie oben schon geschrieben, war und ist das Ziel, eigene Produkte zu erfinden statt als Dienstleister aufzutreten. Folgende Möglichkeiten bietet die Games-Branche:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Crowdfunding&lt;/strong&gt;: Mit Plattformen wie Kickstarter und Indiegogo können zwar einzelne Unternehmen profitabel entwickeln, jedoch geht die Nutzung mehr in Richtung, dies als Marketingkanel und für User-Feedback zu nutzen, als dass man sein Team komplett und über Jahre damit finanzieren kann. Des Weiteren verlangen Zielgruppen bei Crowdfunding 1) ein großes Produkt (vorzugsweise PC- oder Konsolen-Game) 2) sehr viel Vorarbeit für Prototypen und in die eigentliche Kampagnen-Vorbereitung und regelmäßgen Pflege zu investieren.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Publisher&lt;/strong&gt;: Viele Indie-Entwickler stehen einer kleinen Anzahl von Publishern gegenüber. Dieses Nachfrageoligopol (oder Oligopson) erschwert die Kooperation und drückt (meiner Meinung nach) die Preise für Indie-Entwicklern (ganz zu schweigen, wenn Teile der europäischen Gamesbranche in günstigeren Länder wie Polen sitzt oder Studenten sind). Durch die sehr hohe Konkurrenz rate ich zur Distanzierung von unterbezahlten Publisher-Deals.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Investoren / Businessangels&lt;/strong&gt;: Die meiner Meinung nach die beste Möglichkeit, um in Deutschland sinnvoll eigene Produkte zu entwickeln. Jedoch im Gegensatz zu anderen Software-Branchen die gleich Nachteile, wie starke Konkurrenz.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kredit / Selbstfinanziert&lt;/strong&gt;: Sag ich nichts zu, muss jeder selbst wissen.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Förderung&lt;/strong&gt;: In Kanada sehr gut, in Deutschland kaum vorhanden bzw die Vorhandenen sind nur für narrative Produkte und man muss bei den Ausschreibungen vorweisen, dass man bereits narrative Produkte entwickelt hat. Hinzu kommt ein nicht zu unterschätzender Aufwand für Papierkram und Pitch.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;7-umsatz&quot;&gt;7. Umsatz&lt;/h2&gt;
+
+&lt;p&gt;Tiny Roar hat in den letzten drei Jahren einen stetig steigenden (und jeweils mind. 100 % als im Vorjahr höheren) Jahrenumsatz erzielt. Jeweils mit einem wachsenden Team zwischen 3 und 6 Leuten (inkl. Praktikanten).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Festpreise&lt;/strong&gt;: Das Problem daran war, dass wir durch unsere Festpreise, die wir bei jedem Projekt machten, regelmäßig Verluste machten. Dies lag weniger an Verkalkulation, sondern mehr daran, dass wir ohne vorhandene Pflichten- / Lastenhefte viele Mehraufwände, Extrawünscht und Polishing investierten, ohne unsere Kunden daran zu beteilen.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nachverhandeln&lt;/strong&gt;: Warum wir nicht nachgerechnet haben? Fehlende Erfahrung! Hier kommen wir zurück zum ersten Punkt dieses Textes, dass ein Geschäftsmann wichtig ist, der weiß, wie sowas richtig geht. Wahrscheinlich war es ein Mix aus Betriebsblindheit, sich nicht Unbeliebt machen wollen, und nichts riskieren, was die guten Geschäftsbeziehungen schädigt.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nach Aufwand&lt;/strong&gt;: Ich erlebe, dass viele Agenturen, die bisher klassisch mit Festpreisen gearbeitet haben, in die Richtung gehen, nach Aufwand abzurechnen. Und so ist es, denke ich, nur sinnvoll, wenn man als Dienstleister auftritt, seine Arbeit auch nach Aufwand (als Stunden- / Tages- / Wochensatz) abzurechnen.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Teurer werden&lt;/strong&gt;: Des Weiteren bin ich der Meinung, dass man teurer werden kann / sollte / muss, um einen (größeren) Puffer aufzubauen und langfristig besser zu planen sowie größere Projekte zu stemmen. Und nicht zuletzt, um seine Mitarbeiter besser bezahlen zu können, sonst arbeiten diese bald woanders.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/tinydrawing.png&quot; alt=&quot;Tiny Roar&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;8-schlusswort&quot;&gt;8. Schlusswort&lt;/h3&gt;
+
+&lt;p&gt;Vielen Dank an Robert, Maurice, Sebastian und unsere Praktikanten, die uns auf dem Abenteuer zur Seite standen :)&lt;/p&gt;</content><author><name></name></author><summary type="html">Learnings und Insights aus Mitgründung und -führung von 3 Jahren Tiny Roar, welches ich zum Jahresende 2017 verlassen habe:</summary></entry></feed>
