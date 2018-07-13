@@ -27,6 +27,8 @@ At Tiny Roar, my team and me developed a bunch of mobile games as apps as consul
 
 * Do Testing and QA early in development cycle - approximately 50% of the time schedule for the first and a second versions were needed for this. Testing late costs time and money for changing or bugfixing features that were developed a long time ago. (Project: Sudden Strike Quiz)
 
+---
+
 ## 3. User Feedback
 
 * Show your game to friends and external users from day one. Get feedback from the very first prototype and from every further prototype. Do this especially to improve gameplay-relevant game design decisions like finding out what players like or dislike in the level design, or the challenges in finding the correct level difficulty. (Project: Crazy Maze)
