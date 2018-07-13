@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learnings aus 3 Jahren Tiny Roar"
+title:  "Fehler aus 3 Jahren Tiny Roar"
 date:   2018-04-22 12:00:00 +0100
 categories: blog
 ---
