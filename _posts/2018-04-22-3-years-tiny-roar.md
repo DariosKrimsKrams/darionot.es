@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Learnings aus 3 Jahres mein erstes Unternehmen"
+title:  "Learnings aus 3 Jahres Tiny Roar"
 date:   2018-04-22 12:00:00 +0100
 categories: blog
 ---
 
 ![Tiny Roar](/images/3yrtinyroar_teaser.jpg)
-Learnings und Insights aus Mitgründung und -führung von 3 Jahren [Tiny Roar][tinyroar], einer Indie-Games Firma, welches hauptsächlich aus Dienstleister auftrat und welches ich im Anfang 2015 mit zwei Mitgründern mitgründete.
+Learnings und Insights aus Mitgründung und -führung von 3 Jahren [Tiny Roar][tinyroar], meiner ersten Gründung, welches aus Indie Games-Entwicklungs Firma fungierte, wobei wir hauptsächlich aus Dienstleister aufgetreten sind. Gestartet Anfang 2015 mit zwei Mitgründern.
 
 ## 1. Team
 
