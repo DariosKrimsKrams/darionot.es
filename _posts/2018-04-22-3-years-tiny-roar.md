@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Learnings aus 3 Jahres Tiny Roar"
+title:  "Learnings aus 3 Jahren Tiny Roar"
 date:   2018-04-22 12:00:00 +0100
 categories: blog
 ---
 
 ![Tiny Roar](/images/3yrtinyroar_teaser.jpg)
-Learnings und Insights aus Mitgründung und -führung von 3 Jahren [Tiny Roar][tinyroar], meiner ersten Gründung, welches aus Indie Games-Entwicklungs Firma fungierte, wobei wir hauptsächlich aus Dienstleister aufgetreten sind. Gestartet Anfang 2015 mit zwei Mitgründern.
+
+Learnings und Insights aus Mitgründung und -führung von 3 Jahren [Tiny Roar][tinyroar], meiner ersten Gründung, welche aus Gamesentwicklungs-Firma fungierte, wobei wir hauptsächlich aus Dienstleister aufgetreten sind. Gestartet Anfang 2015 mit zwei Mitgründern.
 
 ## 1. Team
 
@@ -81,7 +82,7 @@ Tiny Roar hat in den letzten drei Jahren einen stetig steigenden (und jeweils mi
 * **Nach Aufwand**: Ich erlebe, dass viele Agenturen, die bisher klassisch mit Festpreisen gearbeitet haben, in die Richtung gehen, nach Aufwand abzurechnen. Und so ist es, denke ich, nur sinnvoll, wenn man als Dienstleister auftritt, seine Arbeit auch nach Aufwand (als Stunden- / Tages- / Wochensatz) abzurechnen.
 * **Teurer werden**: Des Weiteren bin ich der Meinung, dass man teurer werden kann / sollte / muss, um einen (größeren) Puffer aufzubauen und langfristig besser zu planen sowie größere Projekte zu stemmen. Und nicht zuletzt, um seine Mitarbeiter besser bezahlen zu können, sonst arbeiten diese bald woanders.
 
-## 8. Am User vorbei entwickelt
+## 8. Am User vorbei entwickeln
 
 Betrachtet man die "Erfolge" unserer Projekte kritisch und differenziert, muss man leider feststellen, dass wir alle Projekte am User vorbei entwickelt haben. Dies könnte die Frage aufwerfen, welche Prozesse und Erfahrungen uns gefehlt haben, im freien Markt erfolgreich zu sein oder die Business-Ausrichtung auf den freien Markt generell infrage stellen.
 
@@ -91,7 +92,7 @@ Einige Key-Facts über die veröffentlichten Games auf dem freien Markt:
 * Sudden Strike Quiz, 4 Mann, kaum Revenue, < 10k Downloads
 * BBC Quiz 12 Monate Entwicklung, 5 1/2 Mann, 50k Downloads
 
-Mehr über Ideen zu User-driven development in einem folgenden Post...
+Mehr zu User-driven Development in einem separaten Post..
 
 
 ![Tiny Roar](/images/tinydrawing.png)
