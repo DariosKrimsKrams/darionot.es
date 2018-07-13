@@ -1,18 +1,20 @@
 ---
 layout: post
-title:  "Lessons learned of 3 Years Tiny Roar"
+title:  "Learnings aus 3 Jahres mein erstes Unternehmen"
 date:   2018-04-22 12:00:00 +0100
 categories: blog
 ---
 
 ![Tiny Roar](/images/3yrtinyroar_teaser.jpg)
-Learnings und Insights aus Mitgründung und -führung von 3 Jahren [Tiny Roar][tinyroar], welches ich zum Jahresende 2017 verlassen habe:
+Learnings und Insights aus Mitgründung und -führung von 3 Jahren [Tiny Roar][tinyroar], einer Indie-Games Firma, welches hauptsächlich aus Dienstleister auftrat und welches ich im Anfang 2015 mit zwei Mitgründern mitgründete.
 
 ## 1. Team
 
 * Regel Nr. 1 ist, dass die Mitgründer und -arbeiter die Besten in ihrem jeweiligen Handwerk sind.
 * Regel Nr. 2 ist, dass alle Positionen besetzt sind.
-* Unser Fehler: Wir waren Software-Entwickler, Game-Designer und Artist, jedoch fehlte uns notwenige Erfahrung rund um einen Projektmanager, einem Geschäftsmann und einem BWLer, was sich im Mangel an Prozesserfahrung, Verhandlungsgeschick und strategischer Weitsicht bemerkbar machte. Dies kostete uns Geld, Zeit und wir mussten aus dummen Fehlern lernen - die schon jeder Andere vor uns gemacht hatte.
+* Pro: Bestendes Netzwerk durch jahrelange Erfahrung bei u.a. Bigpoint sowie wir waren sehr gut in unserer jeweiligen Expertise.
+* Kontra: Wir waren alles Handwerker (Software-Entwickler, Game-Designer und Artist), jedoch fehlte uns notwenige Erfahrung rund Projektmanagement, Fähigkeiten eines Geschäftsmannes und eines BWLers, was sich im Mangel an agiler Prozesserfahrung, fehlendem Verhandlungsgeschick und strategischer Weitsicht bemerkbar machte. Dies kostete uns Geld, Zeit und wir mussten aus unnötig dummen Fehlern lernen - die schon jeder Andere vor uns gemacht hatte.
+* Ich glaube, man muss in jeder Positionen und jedem Menschen zwischen Handwerkern und Führungskräften unterscheiden. Mein Artist war eher Ersteres, mein Game Designer eher Letzteres, was soweit auch gut ist. Evtl hat uns ein weiterer, mehr Praxis-orientierter Game Designer gefehlt.
 
 ## 2. Prozesse
 
@@ -79,9 +81,22 @@ Tiny Roar hat in den letzten drei Jahren einen stetig steigenden (und jeweils mi
 * **Nach Aufwand**: Ich erlebe, dass viele Agenturen, die bisher klassisch mit Festpreisen gearbeitet haben, in die Richtung gehen, nach Aufwand abzurechnen. Und so ist es, denke ich, nur sinnvoll, wenn man als Dienstleister auftritt, seine Arbeit auch nach Aufwand (als Stunden- / Tages- / Wochensatz) abzurechnen.
 * **Teurer werden**: Des Weiteren bin ich der Meinung, dass man teurer werden kann / sollte / muss, um einen (größeren) Puffer aufzubauen und langfristig besser zu planen sowie größere Projekte zu stemmen. Und nicht zuletzt, um seine Mitarbeiter besser bezahlen zu können, sonst arbeiten diese bald woanders.
 
+## 8. Am User vorbei entwickelt
+
+Betrachtet man die "Erfolge" unserer Projekte kritisch und differenziert, muss man leider feststellen, dass wir alle Projekte am User vorbei entwickelt haben. Dies könnte die Frage aufwerfen, welche Prozesse und Erfahrungen uns gefehlt haben, im freien Markt erfolgreich zu sein oder die Business-Ausrichtung auf den freien Markt generell infrage stellen.
+
+Einige Key-Facts über die veröffentlichten Games auf dem freien Markt:
+* Jump the Rope, 5 Monate Entwicklung, 3 Mann, 150 € Ad Revenue, 100 € IAP Revenue, 15 k Downloads
+* Crazy Maze, 8 Monate Entwicklung, 4 Mann, < 5k € Ad Revenue, < 1k € IAP Revenue, 600k Downloads
+* Sudden Strike Quiz, 4 Mann, kaum Revenue, < 10k Downloads
+* BBC Quiz 12 Monate Entwicklung, 5 1/2 Mann, 50k Downloads
+
+Mehr über Ideen zu User-driven development in einem folgenden Post...
+
+
 ![Tiny Roar](/images/tinydrawing.png)
 
-### 8. Schlusswort
+### 9. Schlusswort
 
 Vielen Dank an Robert, Maurice, Sebastian und unsere Praktikanten, die uns auf dem Abenteuer zur Seite standen :)
 
