@@ -22,6 +22,8 @@ Was nicht funktionierte:
 * Ich glaube, man muss in jeder Positionen und jedem Menschen zwischen Handwerkern und Führungskräften unterscheiden. Der Grafiker war eher Ersteres, der Game Designer eher Letzteres, was soweit auch gut war. Ich denke, ein weiterer, mehr Praxis-orientierter Game Designer hat uns gefehlt. Von den viele weitere Positionen mal ganz abgesehen.
 * Motivation: Durch komplett freies Arbeiten gehen die besten und erfolgreichsten Produkte hervor. Mitarbeiter sind motiviert und dürfen einen Teil Ihrer bezahlten Arbeitszeit frei an was auch immer sie wollen arbeiten. Dies soll innovative Produkte fördern und zu besseren Produkten im Allgemeinen führen: https://www.youtube.com/watch?v=rrkrvAUbU9Y
 
+---
+
 ## 2. Prozesse
 
 Obwohl meine Team und ich technisch und in unseren entsp. Disziplinen erfahren und professionell waren, haben unsere Prozesse uns daran gehindert, mit unseren Produkten (Mobile Apps als Games) den User zu erreichen und Spieler-Erwartungen zu befriedigen:
@@ -93,24 +95,11 @@ Tiny Roar hat in den letzten drei Jahren einen stetig steigenden (und jeweils mi
 * **Nach Aufwand**: Ich erlebe, dass viele Agenturen, die bisher klassisch mit Festpreisen gearbeitet haben, in die Richtung gehen, nach Aufwand abzurechnen. Und so ist es, denke ich, nur sinnvoll, wenn man als Dienstleister auftritt, seine Arbeit auch nach Aufwand (als Stunden- / Tages- / Wochensatz) abzurechnen.
 * **Teurer werden**: Des Weiteren bin ich der Meinung, dass man teurer werden kann / sollte / muss, um einen (größeren) Puffer aufzubauen und langfristig besser zu planen sowie größere Projekte zu stemmen. Und nicht zuletzt, um seine Mitarbeiter besser bezahlen zu können, sonst arbeiten diese bald woanders.
 
-## 8. Am User vorbei entwickeln
-
-Betrachtet man die "Erfolge" unserer Projekte kritisch und differenziert, muss man leider feststellen, dass wir alle Projekte am User vorbei entwickelt haben. Dies könnte die Frage aufwerfen, welche Prozesse und Erfahrungen uns gefehlt haben, im freien Markt erfolgreich zu sein oder die Business-Ausrichtung auf den freien Markt generell infrage stellen.
-
-Einige Key-Facts über die veröffentlichten Games auf dem freien Markt:
-* Jump the Rope, 5 Monate Entwicklung, 3 Mann, 150 € Ad Revenue, 100 € IAP Revenue, 15 k Downloads
-* Crazy Maze, 8 Monate Entwicklung, 4 Mann, < 5k € Ad Revenue, < 1k € IAP Revenue, 600k Downloads
-* Sudden Strike Quiz, 4 Mann, kaum Revenue, < 10k Downloads
-* BBC Quiz 12 Monate Entwicklung, 5 1/2 Mann, 50k Downloads
-
-Mehr zu User-driven Development in einem separaten Post..
-
-
 ![Tiny Roar](/images/tinydrawing.png)
 
 ### 9. Schlusswort
 
-Vielen Dank an Robert, Maurice, Sebastian und unsere Praktikanten, die uns auf dem Abenteuer zur Seite standen :)
 
+Betrachtet man die Erfolge unserer Projekte kritisch und differenziert, muss ich leider feststellen, dass wir alle Projekte am User vorbei entwickelt haben. Gleichzeitig haben wir auch einies Richtig gemacht, was B2B angeht und konnten uns innerhalb der Games-Branche als Dienstleister etablieren. Die Misserfolte könnten die Frage aufwerfen, welche Prozesse und Erfahrungen uns gefehlt haben und weiterhin fehlen, im freien Markt erfolgreich zu sein oder die Business-Ausrichtung auf den freien Markt generell infrage stellen. Ich hoffe, euch in diesen Lessons learned Einblicke in unsere Probleme geben zu können und hoffe, dass meine Tipps und Verbesserungsvorschläge helfen konnten. Vielen Dank an Robert, Maurice, Sebastian und unsere Praktikanten, die uns bei dem Tiny Roar  Abenteuer zur Seite standen :)
 
 [tinyroar]: https://tinyroar.de
