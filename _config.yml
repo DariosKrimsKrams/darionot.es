@@ -13,12 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+author: Dario D. Müller
 title: Dario D. Müller
-email: xxx
-description: Do Epic Shit
+subtitle: Blog from Dario
+city: Hamburg, Germany
+email: dario-domi@hotmail.de
+description: Entrepreneur and freelancer software developer C# .Net and Angular.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://darionot.es/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dariodomide
+xing_username:  DarioD_Mueller
+linkedin_username:  dariomueller
 
 # Build settings
 markdown: kramdown
