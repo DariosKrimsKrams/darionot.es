@@ -21,7 +21,9 @@ Peter  *"Konkurrenz vernichtet Gewinne"*. An folgenden vier Kriterien kann man e
 
 (Das Unternehmen sollte in diesen vier Punkten jeweils zehnfach so gut sein wie der nächste Konkurrent)
 
-Fragen stellen
+---
+
+#### Checklist von *Peter Thiel*
 
 * Für wie viele Jahre kann erwartet werden, dass dieser Burggraben nicht eingeholt werden kann?
 * Wird der Markt und die Nachfrage in 10 Jahren noch (genau so groß) existieren?
@@ -44,6 +46,8 @@ Folgende sieben Fragen muss sich jedes Unternehmen oder jeder Gründer stellen, 
 5. die Vertriebs-Frage: Sieht das Unternehmen Möglichkeiten, das Produkt nicht nur herzustellen, sondern auch zu verkaufen?
 6. Die Haltbarkeits-Frage: Können Sie Ihre Wettbewerbsposition fünf, zehn oder zwanzig Jahre lang halten? (Was bietet das Unternehmen, die Konkurrenz davon aufzuhalten?)
 7. Die Geheinnis-Frage: Haben Sie eine einmalige Chance erkannt, die andere nicht sehen?
+
+---
 
 #### Kriterien von *Elon Musk*
 * **"If a trend becomes obvious, you're too late."**: "Wenn ein Trend offensichtlich ist, ist es zu spät." - ist deine Gründungsidee offensichtlich und der Need bereits heute erkennbar ist oder sogar das Potential dies zu nutzen in der Zielgruppe schon zu 100 % im Bewusstsein ist, bist du zu spät dran.

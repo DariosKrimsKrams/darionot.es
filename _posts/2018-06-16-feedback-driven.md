@@ -21,6 +21,8 @@ In diesem Post möchte ich mich dem Thema der user-driven oder Feedback-driven d
 * User mit eingeziehen: Ideen für zukünftige Features vor Umsetzung der Community pitchen und Feedback einholen
 * Personas erstellen und diese regelmäßig checken, ob Zielgruppe noch die Richtige ist und sich diese auch angesprochen fühlt.
 
+---
+
 Das Problem ist u.a. auch, dass User sich nicht genug zugehört fühlt und engagiert genug sind, wenn sie per App Store oder In-app Feedback Formular nach Ihrer Meinung gefragt werden. Gute Beispiele, das Engagement der Community direkt in das Produkt mit einzubeziehen:
 
 * Mods in Spielen
