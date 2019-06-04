@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wie bewertet man Gründungsideen und Geschäftsmodelle?"
-date:   2018-06-15 18:53:30 +0100
+date:   2018-05-04 12:00:00 +0100
 categories: blog
 ---
 
