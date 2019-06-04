@@ -5,9 +5,9 @@ date:   2019-06-04 12:00:00 +0100
 categories: blog
 ---
 
-Oft werde ich gefragt, ob ich als Programmierer Startups bei der Entwicklung von ihren App- und Website-Ideen weiterhelfen kann. Da deren Budgets oft klein sind, bieten sie Anteile am Unternehmen an. Vor allem, wenn junge Gründer mich um Unterstützung bitten, möchte ich denen so gut wie möglich helfen. Wenn in Anteilen bezahlt wird und kaum Budget vorhanden ist, stellt sich die Frage, ob die Unternehmung sich lohnt: Doch wie entscheide ich, ob das Projekt es marktwirtschaftlich wert ist, von mir unterstützt zu werden.
+Oft werde ich gefragt, ob ich als Programmierer Startups bei der Entwicklung von ihren App- und Website-Ideen weiterhelfen kann. Vor allem, wenn junge Gründer mich um Unterstützung bitten, möchte ich denen so gut wie möglich helfen. Da deren Budgets oft klein sind, bieten sie mir Anteile am Unternehmen an. Nun stellt sich mir die Frage, ob sich die Unternehmung lohnt: Doch wie entscheide ich, ob das Projekt es marktwirtschaftlich lohnt und den Aufwand Wert ist.
 
-Das intensive Auseinandersetzen mit den geplanten Projekten, Produkten und Visionen soll mir einen Eindruck geben, die Zukunft aus Gründerperspektive beurteilen zu können und welches Potential sich dahinter verbirgt. Dabei will ich weniger auf die BWL-Seite oder Business Development Perspektive schauen, sondern versuchen, das Projekt aus Sicht von Ventures Capital zu verstehen. Anhand nachfolgender Fragen kann das Potential besser eingeschätzt werden:
+Das intensive Auseinandersetzen mit den geplanten Projekten, Produkten und Visionen soll mir einen Eindruck geben, die Zukunft aus Gründerperspektive beurteilen zu können und welches Potential sich dahinter verbirgt. Doch ich will weniger auf die BWL-Seite oder Business Development Perspektive schauen, sondern versuchen, das Projekt aus Sicht von Ventures Capital zu verstehen. Anhand nachfolgender Fragen versuche ich Potential besser eingeschätzt werden:
 
 #### Kriterien von *Peter Thiel*
 
