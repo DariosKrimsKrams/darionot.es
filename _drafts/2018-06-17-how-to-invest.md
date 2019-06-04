@@ -1,18 +1,22 @@
 ---
 layout: post
-title:  "How to invest"
+title:  "Wie bewertet man Gründungsideen (oder: How to invest)"
 date:   2018-06-15 18:53:30 +0100
 categories: blog
 ---
 
+Oft werde ich gefragt, ob ich als Programmierer Startups bei der Entwicklung von ihren App- und Website-Ideen weiterhelfen kann. Da deren Budgets oft klein sind, bieten sie Anteile am Unternehmen an. Vor allem, wenn junge Gründer mich um Unterstützung bitten, möchte ich denen so gut wie möglich helfen. Wenn in Anteilen bezahlt wird und kaum Budget vorhanden ist, stellt sich die Frage, ob die Unternehmung sich lohnt: Doch wie entscheide ich, ob das Projekt es marktwirtschaftlich wert ist, von mir unterstützt zu werden.
+
+Das intensive Auseinandersetzen mit den geplanten Projekten, Produkten und Visionen soll mir einen Eindruck geben, die Zukunft aus Gründerperspektive beurteilen zu können und welches Potential sich dahinter verbirgt. Dabei will ich weniger auf die BWL-Seite oder Business Development Perspektive schauen, sondern versuchen, das Projekt aus Sicht von Ventures Capital zu verstehen.
+
+Aus meinen Gedanken darüber ist eine Checklist entstanden, welche Fragen man sich stellen sollte, um das Potential einer Gründungsidee bzw. dessen Produkt dahinter einschätzen zu können.
+
+
 
 Kriterian anhand dessen man in Unternehmen investieren oder diese Gründen sollte
 
-basierend auf Benjamin Graham und Peter Thiel
 
-* Das Unternehmen sollte mind. 1 Mrd $/€ Marktkapitalisierung
-* Das Unternehmen sollte groß, bekannt und bedeutend sein
-* Das Unternehmen sollte in jedem der letzten zehn Jahre einen Gewinn erwirtschaftet haben und diser sollte je Aktie dabei um mindestens ein Drittel gewachsen sein.
+#### Kriterien von *Peter Thiel*
 
 * **Monopol:** Das Unternehmen muss ein Monopol / Burggraben aufgebaut haben. Z.B. in dem es als Erstes in einem neuen Markt war oder sich der Konkurrenz gegenüber so gut abhehen konnte, dass er alle andere Konkurrenz verdrängt hat. *"Konkurrenz vernichtet Gewinne"*. An folgenden vier Kriterien kann man einen Vorsprung messen:
   * **Eigene Technologie**
@@ -21,7 +25,7 @@ basierend auf Benjamin Graham und Peter Thiel
   * **Markenbildung**
   * (Das Unternehmen sollte in diesen vier Punkten jeweils zehnfach so gut sein wie der nächste Konkurrent)
   * Für wie viele Jahre kann erwartet werden, dass dieser Burggraben nicht eingeholt werden kann?
-* Wirdd der Markt und die Nachfrage in 10 Jahren noch (genau so groß) existieren?
+* Wird der Markt und die Nachfrage in 10 Jahren noch (genau so groß) existieren?
 * **Laserfokus:** Das Unternehmen hat einen Fokus auf einen Markt oder eine Zielgruppe?
 * Nur in Unternehmen investieren, die das Potential haben, die Investionen des gesamten Portfolios einzuspielen
 * Behalte die Regeln des **Potenzgesetz** im Kopf. Beachte dabei:
@@ -46,4 +50,16 @@ Jedes Unternehmen oder Gründer muss sich diese sieben Fragen stellen
   * Können Sie Ihre Wettbewerbsposition zehn oder zwanzig Jahre lang halten?
 7. Die Geheinnis-Frage
   * Haben Sie eine einmalige Chance erkannt, die andere nicht sehen?"
+  
+  
+#### Kriterien von *Elon Musk*
+* **"If a trend becomes obvious, you're too late."**: "Wenn ein Trend offensichtlich ist, ist es zu spät." - ist deine Gründungsidee offensichtlich und der Need bereits heute erkennbar ist oder sogar das Potential dies zu nutzen in der Zielgruppe schon zu 100 % im Bewusstsein ist, bist du zu spät dran.
+
+
+#### Kriterien von *Benjamin Graham*
+* Das Unternehmen sollte mind. 1 Mrd $/€ Marktkapitalisierung haben. (im Gründungsfall: Das Potential haben, die Summe erreichen zu können)
+* Das Unternehmen sollte groß, bekannt und bedeutend sein. (im Gründungsfall: Das Potential haben, dies erreichen zu können)
+* Das Unternehmen sollte in jedem der letzten zehn Jahre einen Gewinn erwirtschaftet haben und diser sollte je Aktie dabei um mindestens ein Drittel gewachsen sein. (bezogen auf's Late Stage Investing: Das Potential haben, dies erreichen zu können)
+
+
   
