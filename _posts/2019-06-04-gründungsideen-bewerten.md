@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wie bewertet man Gründungsideen und Geschäftsmodelle?"
+title:  "Gründungsideen und Geschäftsmodelle bewerten"
 date:   2019-06-04 12:00:00 +0100
 categories: blog
 ---
@@ -11,19 +11,20 @@ Das intensive Auseinandersetzen mit den geplanten Projekten, Produkten und Visio
 
 #### Kriterien von *Peter Thiel*
 
-Peter Thiel vertritt den Gedanken, das das Aufbauen eines **Monopols** / Burggrabens der einzig sinnvoll nachhaltige Weg ist. Nachfolgend seine Punkte auf Gründungen bezogen: Das Unternehmen muss ein Monopol aufbauen können, z.B. in dem es als Erstes in einem neuen Markt ist, der Markt noch nicht existiert oder sich der Konkurrenz gegenüber so gut abhehen kann, dass es alle Andere verdrängen kann.
+*"Konkurrenz vernichtet Gewinne"* und *"Konkurrenz ist was für Looser"*: Peter Thiel vertritt den Gedanken, das das Aufbauen eines **Monopols** (auch Burggrabens genannt) der einzig sinnvolle, nachhaltige Weg ist. Das Unternehmen muss ein Monopol aufbauen können, z.B. in dem es als Erstes in einem neuen Markt ist, der Markt noch nicht existiert oder sich der Konkurrenz gegenüber so gut abhehen kann, dass es alle Andere verdrängen kann.
 
-Peter  *"Konkurrenz vernichtet Gewinne"*. An folgenden vier Kriterien kann man einen Vorsprung messen:
+Er veranschaulicht dies an folgenden vier Kriterien, an dem sich ein Vorsprung messen lässt:
+
   * **Eigene Technologie**
   * **Netzwerkeffekte**
   * **Größenvorteil**
   * **Markenbildung**
 
-(Das Unternehmen sollte in diesen vier Punkten jeweils zehnfach so gut sein wie der nächste Konkurrent)
+(Um dies einschätzen zu können, kann die Richtlinie anwandt werden: Das Unternehmen sollte in diesen vier Punkten jeweils zehnfach so gut sein wie der nächste Konkurrent)
 
 ---
 
-#### Checklist von *Peter Thiel*
+#### Checklist
 
 * Für wie viele Jahre kann erwartet werden, dass dieser Burggraben nicht eingeholt werden kann?
 * Wird der Markt und die Nachfrage in 10 Jahren noch (genau so groß) existieren?
@@ -35,7 +36,7 @@ Peter  *"Konkurrenz vernichtet Gewinne"*. An folgenden vier Kriterien kann man e
   * Auch das Timing von Entscheidungen folgt dem Potentgesetz, weshalb manche Zeitpunkte mit Abstand wichtiger sind als alle Anderen.
 * Das Unternehmen muss das Potential haben, ein gigantischer Erfolg zu werden, in dem es einmalige Voraussetzungen mitbringt.
 
-#### Sieben Fragen von *Peter Thiel*
+#### Sieben Fragen
 
 Folgende sieben Fragen muss sich jedes Unternehmen oder jeder Gründer stellen, um den Erfolg bewerten zu können:
 
