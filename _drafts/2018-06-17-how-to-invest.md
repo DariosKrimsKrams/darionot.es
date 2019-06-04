@@ -7,9 +7,7 @@ categories: blog
 
 Oft werde ich gefragt, ob ich als Programmierer Startups bei der Entwicklung von ihren App- und Website-Ideen weiterhelfen kann. Da deren Budgets oft klein sind, bieten sie Anteile am Unternehmen an. Vor allem, wenn junge Gründer mich um Unterstützung bitten, möchte ich denen so gut wie möglich helfen. Wenn in Anteilen bezahlt wird und kaum Budget vorhanden ist, stellt sich die Frage, ob die Unternehmung sich lohnt: Doch wie entscheide ich, ob das Projekt es marktwirtschaftlich wert ist, von mir unterstützt zu werden.
 
-Das intensive Auseinandersetzen mit den geplanten Projekten, Produkten und Visionen soll mir einen Eindruck geben, die Zukunft aus Gründerperspektive beurteilen zu können und welches Potential sich dahinter verbirgt. Dabei will ich weniger auf die BWL-Seite oder Business Development Perspektive schauen, sondern versuchen, das Projekt aus Sicht von Ventures Capital zu verstehen.
-
-Aus meinen Gedanken darüber ist eine Checklist entstanden, welche Fragen man sich stellen sollte, um das Potential einer Gründungsidee bzw. dessen Produkt dahinter einschätzen zu können:
+Das intensive Auseinandersetzen mit den geplanten Projekten, Produkten und Visionen soll mir einen Eindruck geben, die Zukunft aus Gründerperspektive beurteilen zu können und welches Potential sich dahinter verbirgt. Dabei will ich weniger auf die BWL-Seite oder Business Development Perspektive schauen, sondern versuchen, das Projekt aus Sicht von Ventures Capital zu verstehen. Anhand nachfolgender Fragen kann das Potential besser eingeschätzt werden:
 
 #### Kriterien von *Peter Thiel*
 
@@ -35,22 +33,17 @@ Fragen stellen
   * Auch das Timing von Entscheidungen folgt dem Potentgesetz, weshalb manche Zeitpunkte mit Abstand wichtiger sind als alle Anderen.
 * Das Unternehmen muss das Potential haben, ein gigantischer Erfolg zu werden, in dem es einmalige Voraussetzungen mitbringt.
 
-Jedes Unternehmen oder Gründer muss sich diese sieben Fragen stellen
+#### Sieben Fragen von *Peter Thiel*
 
-1. Die technische Frage
-  * Ist Ihre Technologie revolutionär oder nur eine geringfügige Verbesserung?
-2. Die Timing-Frage
-  * Ist **jetzt** der richtige Zeitpunkt, um in das Unternehmen zu investieren?
-3. Die Monopol-Frage
-  * Beginnt das Unternehmen mit einem großen Anteil an einem kleinen Markt?
-4. Die Team-Frage
-  * Haben Sie die richtigen Leute? (Welche Leute bräuchten Sie, damit es besser wird und welchen Einfluss hätte dies?)
-5. die Vertriebs-Frage
-  * Sieht das Unternehmen Möglichkeiten, das Produkt nicht nur herzustellen, sondern auch zu verkaufen?
-6. Die Haltbarkeits-Frage
-  * Können Sie Ihre Wettbewerbsposition fünf, zehn oder zwanzig Jahre lang halten? (Was bietet das Unternehmen, die Konkurrenz davon aufzuhalten?)
-7. Die Geheinnis-Frage
-  * Haben Sie eine einmalige Chance erkannt, die andere nicht sehen?
+Folgende sieben Fragen muss sich jedes Unternehmen oder jeder Gründer stellen, um den Erfolg bewerten zu können:
+
+1. Die technische Frage: Ist Ihre Technologie revolutionär oder nur eine geringfügige Verbesserung?
+2. Die Timing-Frage: Ist **jetzt** der richtige Zeitpunkt, um in das Unternehmen zu investieren?
+3. Die Monopol-Frage: Beginnt das Unternehmen mit einem großen Anteil an einem kleinen Markt?
+4. Die Team-Frage: Haben Sie die richtigen Leute? (Welche Leute bräuchten Sie, damit es besser wird und welchen Einfluss hätte dies?)
+5. die Vertriebs-Frage: Sieht das Unternehmen Möglichkeiten, das Produkt nicht nur herzustellen, sondern auch zu verkaufen?
+6. Die Haltbarkeits-Frage: Können Sie Ihre Wettbewerbsposition fünf, zehn oder zwanzig Jahre lang halten? (Was bietet das Unternehmen, die Konkurrenz davon aufzuhalten?)
+7. Die Geheinnis-Frage: Haben Sie eine einmalige Chance erkannt, die andere nicht sehen?
 
 #### Kriterien von *Elon Musk*
 * **"If a trend becomes obvious, you're too late."**: "Wenn ein Trend offensichtlich ist, ist es zu spät." - ist deine Gründungsidee offensichtlich und der Need bereits heute erkennbar ist oder sogar das Potential dies zu nutzen in der Zielgruppe schon zu 100 % im Bewusstsein ist, bist du zu spät dran.
