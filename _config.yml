@@ -17,8 +17,8 @@ author: Dario D. Müller
 title: Dario D. Müller
 subtitle: Blog from Dario
 city: Hamburg, Germany
-email: dario-domi@hotmail.de
-description: Entrepreneur and freelancer software developer C# .Net and Angular.
+email: moin@darionot.es
+description: Entrepreneur and freelancer fullstack software developer Backend (.Net), Frontend (Angular, Vue.js) and Mobile (Unity 3D, NativeScript).
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://darionot.es/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dariodomide
