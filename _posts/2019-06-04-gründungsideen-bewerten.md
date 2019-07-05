@@ -1,26 +1,22 @@
 ---
 layout: post
-title:  "Gründungsideen und Geschäftsmodelle bewerten"
+title:  "Geschäftsmodelle und Gründungen bewerten"
 date:   2019-06-04 12:00:00 +0100
 categories: blog
 ---
 
-Oft werde ich gefragt, ob ich als Programmierer Startups bei der Entwicklung von ihren App- und Website-Ideen weiterhelfen kann. Vor allem, wenn junge Gründer mich um Unterstützung bitten, möchte ich denen so gut wie möglich helfen. Da deren Budgets oft klein sind, bieten sie mir Anteile am Unternehmen an. Nun stellt sich mir die Frage, ob sich die Unternehmung lohnt: Doch wie entscheide ich, ob das Projekt es marktwirtschaftlich lohnt und den Aufwand Wert ist.
+Oft werde ich gefragt, ob ich als Programmierer Startups bei der Entwicklung von ihren App- und Website-Ideen weiterhelfen kann. Vor allem, wenn junge Gründer mich um Unterstützung bitten, möchte ich denen so gut wie möglich helfen. Da deren Budgets aber oft klein sind, bieten sie mir Anteile am Unternehmen an. Nun stellt sich mir die Frage, ob sich eine Unternehmung lohnt: 
 
-Das intensive Auseinandersetzen mit den geplanten Projekten, Produkten und Visionen soll mir einen Eindruck geben, die Zukunft aus Gründerperspektive beurteilen zu können und welches Potential sich dahinter verbirgt. Doch ich will weniger auf die BWL-Seite oder Business Development Perspektive schauen, sondern versuchen, das Projekt aus Sicht von Ventures Capital zu verstehen. Anhand nachfolgender Fragen versuche ich Potential besser eingeschätzt werden:
+Das Auseinandersetzen mit den Projekten, Produkten und Visionen soll mir einen Eindruck geben, die Zukunft aus Gründerperspektive beurteilen zu können und welches Potential im Verhältnis zu Risiken und potentiellen Hürden sich dahinter verbirgen. Doch ich will weniger auf die BWL-Seite oder Business Development Perspektive schauen, sondern versuchen, das Projekt aus Sicht von Ventures Capital Kriterien zu verstehen. Anhand nachfolgender Checkliste und Fragen versuche ich besser einschätzen zu können, ob sich eine Unternehmung marktwirtschaftlich lohnt:
 
 #### Kriterien von *Peter Thiel*
 
-*"Konkurrenz vernichtet Gewinne"* und *"Konkurrenz ist was für Looser"*: Peter Thiel vertritt den Gedanken, das das Aufbauen eines **Monopols** (auch Burggrabens genannt) der einzig sinnvolle, nachhaltige Weg ist. Das Unternehmen muss ein Monopol aufbauen können, z.B. in dem es als Erstes in einem neuen Markt ist, der Markt noch nicht existiert oder sich der Konkurrenz gegenüber so gut abhehen kann, dass es alle Andere verdrängen kann.
-
-Er veranschaulicht dies an folgenden vier Kriterien, an dem sich ein Vorsprung messen lässt:
+*"Konkurrenz vernichtet Gewinne"* und *"Konkurrenz ist was für Looser"*: Peter Thiel vertritt den Gedanken, dass das Aufbauen eines **Monopols** (Burggrabens) der einzig sinnvolle, nachhaltige Weg ist. Das Unternehmen muss ein Monopol aufbauen können, z.B. in dem es als Erstes in einem neuen Markt ist, der Markt noch nicht existiert oder sich der Konkurrenz gegenüber so gut abhehen kann, dass es alle Andere verdrängt. Dieser Vorsprung soll sich an vier Kriterien messen lassen. Als Richtlinie zur Einschätzung beschreibt er die Regel, dass das Unternehmen in diesem der vier Punkten jeweils zehnfach so gut sein sollte wie der nächste Konkurrent.
 
   * **Eigene Technologie**
   * **Netzwerkeffekte**
   * **Größenvorteil**
   * **Markenbildung**
-
-(Um dies einschätzen zu können, kann die Richtlinie anwandt werden: Das Unternehmen sollte in diesen vier Punkten jeweils zehnfach so gut sein wie der nächste Konkurrent)
 
 ---
 
