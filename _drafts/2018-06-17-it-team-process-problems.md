@@ -1,9 +1,18 @@
 ---
 layout: post
-title:  "IT Team Prozess Probleme oder: Killing Agile Process by Inexperience"
+title:  "Killing your Agile Process by Inexperience"
 date:   2018-06-15 18:53:30 +0100
 categories: blog
 ---
+
+### Software Prioritization
+
+  * Doing too much Design-Optimizations instead of basic Functionality-Bugfixing or -Implementation
+  * User Experience und Usability nicht an realen Usern getestet
+
+
+
+### Agile Software-Entwicklung
 
 Alles rund um Prozesse und deren Probleme: Alle sprechen von Scrum und nennen ihre Software-Entwicklungs-Projekte agil:
 Oft habe ich dahinter mehr Buzzword und andere Vorgehensmodelle gesehen. Hier eine Auflistung meiner Beobachtungen zum Thema IT Process
