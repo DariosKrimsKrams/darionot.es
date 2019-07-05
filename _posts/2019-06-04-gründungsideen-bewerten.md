@@ -45,7 +45,7 @@ Folgende sieben Fragen muss sich jedes Unternehmen oder jeder Gründer stellen, 
 7. Die Geheinnis-Frage: Haben Sie eine einmalige Chance erkannt, die andere nicht sehen?
 
 #### Trends erkennen - *Elon Musk*
-* **"If a trend becomes obvious, you're too late."**: "Wenn ein Trend offensichtlich ist, ist es zu spät." - ist deine Gründungsidee offensichtlich und der Need bereits heute erkennbar ist oder sogar das Potential dies zu nutzen in der Zielgruppe schon zu 100 % im Bewusstsein ist, bist du zu spät dran.
+* **"If a trend becomes obvious, you're too late."**: "Wenn ein Trend offensichtlich ist, ist es zu spät." - ist die Nachfrage nach deiner Gründungsidee heutzutage offensichtlich und die Notwendigkeit / der Bedarf bereits heute erkennbar ist oder sogar das Potential dies zu nutzen bei deiner Zielgruppe schon vollständig im Bewusstsein ist, bist du zu spät dran.
 
 #### Zukunftsaussichten - *Benjamin Graham*
 * Das Unternehmen sollte mind. 1 Mrd $/€ Marktkapitalisierung haben. (im Gründungsfall: Das Potential haben, die Summe erreichen zu können)
