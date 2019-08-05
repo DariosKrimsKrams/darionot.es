@@ -1,4 +1,4 @@
-# dario-notes.github.io
+# darionot.es
 my personal website
 
 # Build the site on the preview server
