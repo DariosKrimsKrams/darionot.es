@@ -7,7 +7,7 @@ categories: blog
 
 ![Tiny Roar](/images/3yrtinyroar_teaser.jpg)
 
-Nachfolgend möchte ich euch Learnings und Insights aus Mitgründung und -führung von 3 Jahren [Tiny Roar][tinyroar] darstellen, und Optimierungen der Prozesse des Führens eines Unternehmens darstellen. Tiny Roar war meine erste Gründung, welche sich dem Schwerpuntk der Gamesentwicklungs zugesprochen hat. Gestartet Anfang 2015 mit zwei Mitgründern waren wir hauptsächlich aus Dienstleister aktiv.
+Learnings und Fuckups aus Mitgründung von 3 Jahren [Tiny Roar][tinyroar] darstellen. Tiny Roar war meine erste Gründung, welche sich dem Schwerpuntk der Gamesentwicklungs zugesprochen hat. Gestartet Anfang 2015 mit zwei Mitgründern waren wir hauptsächlich aus Dienstleister aktiv.
 
 ## 1. Team
 
