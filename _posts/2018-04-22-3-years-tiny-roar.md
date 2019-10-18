@@ -97,8 +97,11 @@ Tiny Roar hat in den letzten drei Jahren einen stetig steigenden (und jeweils mi
 
 ![Tiny Roar](/images/tinydrawing.png)
 
-### 9. Schlusswort
+## 9. Emotionen
 
+* Zu viele Emotionen in die Entwicklung/Design/etc. der Produkte reingestreckt, was uns den Drive gegeben hat, über Jahre unseren Perfektionismus in die Produkte zu bringen. Dadurch war es uns nicht möglich, die Entwicklung des Unternehmens differenziert zu betrachten und wie wir Veränderung in unseren Strukturen und Prozessen tun müssen, unsere Ziele besser oder überhaupt zu erreichen.
+
+## 10. Schlusswort
 
 Betrachtet man die Erfolge unserer Projekte kritisch und differenziert, muss ich leider feststellen, dass wir alle Projekte am User vorbei entwickelt haben. Gleichzeitig haben wir auch einies Richtig gemacht, was B2B angeht und konnten uns innerhalb der Games-Branche als Dienstleister etablieren. Die Misserfolte könnten die Frage aufwerfen, welche Prozesse und Erfahrungen uns gefehlt haben und weiterhin fehlen, im freien Markt erfolgreich zu sein oder die Business-Ausrichtung auf den freien Markt generell infrage stellen. Ich hoffe, euch in diesen Lessons learned Einblicke in unsere Probleme geben zu können und hoffe, dass meine Tipps und Verbesserungsvorschläge helfen konnten. Vielen Dank an Robert, Maurice, Sebastian und unsere Praktikanten, die uns bei dem Tiny Roar  Abenteuer zur Seite standen :)
 
