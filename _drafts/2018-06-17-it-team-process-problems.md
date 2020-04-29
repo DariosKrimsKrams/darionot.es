@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Killing your Agile Process by Inexperience"
+title:  "Killing your Agile Full Stack Development by Inexperience"
 date:   2018-06-15 18:53:30 +0100
 categories: blog
 ---
@@ -29,3 +29,14 @@ Problem:
   * kein separaten Moderator
   * Diskussionen soll sich auf das gesamte Team richtigen, nicht auf Einzelne
   * Fehlende Diskussion/Verbesserungsvorschläge zu potentiellen Produktivitäts-Steierungen
+
+
+# ...
+  * Schwierigkeiten für Priorisierung von Entscheidungen seitens GF & Leads
+  * Häufig Kritische Bugs auf Prod, die sofort gefixt werden müssen
+  * Fehleinschätzungen des Management für Timelines
+  * Fehleinschätzungen des Management bzgl Inhouse oder Outsourcing langfristiger Software-Lösungen, die Mission-Critical sind
+  * Keine Vision, fehlende Mockups, und Ideen, wie das Produkt später aussehen soll
+  * keine Prios und Einsehen der Wichtigkeit von Usability-Aufwand und Feedback-Optimierungen, bei Frontend-Entwicklung
+  * Product Owner ist der Endanwender/Mitarbeiter selbst, und nicht einer, der 
+  * Endanwender/Mitarbeiter hat weiterhin Tagesgeschäft Themen
