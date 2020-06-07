@@ -5,16 +5,19 @@ date:   2020-07-06 12:00:00 +0100
 categories: blog
 ---
 
-# Probleme eines etablierten Unternehmens bei der Digitalisierung
+# Probleme etablierter Unternehmens bei der Digitalisierung
 
-In diesem Blog-Artikel geht es
-rund um Prozesse eines Unternehmens und deren Probleme bei der Optimierung der Digitalisierung:
+In diesem Blog-Post geht es um Prozesse eines Unternehmens und deren Probleme und mögliche Fehler bei der Digitalisierung:
 
-Kurze Einleitung: Bei Unternehmen sind die Vorteile von agiler Software-Entwicklung seit Jahren in aller Munde und nun versucht nun das Management eines Wasserfall-etabliertes Unternehmen seit Jahren ihre Software-Entwicklung auf Agile, Kanban, Scrum etc. umstellen, aber dabei stellen sie fest, am Endanwender vorbeientwickelte Produkte entwickelt zu haben, eine unausreichende Stabilität und Fehlerhäufigkeit zu haben oder quälen sich mit stark verzögerten Einführungen neuer Features rum, welches das Einhalten von Deadlines verhindert. Aber zuerst einmal das Aufzeigen des Status Quo. Ursachen zur Entstehung dieser Problem können sein:
+In vielen Unternehmen sind die Vorteile von agiler Software-Entwicklung seit Jahren in aller Munde und nun versucht das Management eines Wasserfall-etabliertes Unternehmen seit Jahren ihre Software-Entwicklung auf Agile, Kanban, Scrum etc. umstellen. Nach und nach stellen es fest, am Endanwender vorbeientwickelte Software gebaut zu haben, eine unausreichende Stabilität oder Fehlerhäufigkeit zu bieten oder nur zögerlich mit Einführungen neuer Features zu handeln. Der Status Quo sieht so aus:
 
-  * Das Management denkt altmodisch (kommt aus einer Wasserfall-etablierten Kultur) und hat keine Prio auf Digitalisierung, dadurch sind digitalisierte Prozesse nicht zeitgemäßig für heutige Arbeitsweisen sowie erschweren zukünftige Veränderungen, die von innen heraus sucht werden anzutreiben
-  * Fachabteilung sind inzwischen betriebsblind in ihren Abläufen gefangen und erkennen Optimierungs-Potential für Prozesse und Arbeitsweisen nicht oder sind durch Regeln zur vermeintlichen Risiko-Minimierung an diese Prozesse gebunden
-  * Komplexe Arbeitsschritte und manuelle Prozesse wurden nie (genug) digitalisiert, dadurch ständig manueller Aufwand. Zudem sind diese Arbeitsschritte sind nicht gut skalierbar für ggf. saisonabhängige Phasen mit höherem Arbeitsvolumen. Durch die Erforderlichkeit von Fachwissen werden wichtige Fachkräften blockiert und das Unternehmen ist stark Abhängigkeit zu diesen Mitarbeitern.
+Komplexe Arbeitsschritte und manuelle Prozesse wurden nie (genug) digitalisiert, dadurch ständig manueller Aufwand. Zudem sind diese Arbeitsschritte sind nicht gut skalierbar für ggf. saisonabhängige Phasen mit höherem Arbeitsvolumen. Durch die Erforderlichkeit von Fachwissen werden wichtige Fachkräften blockiert und das Unternehmen ist stark Abhängigkeit zu diesen Mitarbeitern.
+
+Fachabteilung sind inzwischen betriebsblind in ihren Abläufen gefangen und erkennen Optimierungs-Potential für Prozesse und Arbeitsweisen nicht oder sind durch Regeln zur vermeintlichen Risiko-Minimierung an diese Prozesse gebunden.
+
+Ursachen zur Entstehung dieser Problem sind womöglich, dass das Management altmodisch denkt (es kommt aus einer Wasserfall-etablierten Kultur) und setzt keine Prio auf Digitalisierung. Dadurch sind digitalisierte Prozesse nicht zeitgemäßig für heutige Arbeitsweisen sowie erschweren zukünftige Veränderungen, die von innen heraus sucht werden anzutreiben.
+  
+  
 
 ### Probleme
 
@@ -32,6 +35,7 @@ Fehlende Erfahrung von Personen in Schlüsselpositionen seitens Mitarbeitern in 
   * Der eigene, jahrelang etablierte Prozess wird auf Scrum angewandt: Wasserfall Modell mit Kanban- und maximal noch Scrum-Board.
   * Fehleinschätzungen des Management für Timelines
   * Keine Vision, fehlende Mockups, und Ideen, wie das Produkt später aussehen soll
+  * Fehlende IT-Affinität in Fachabteilungen
 
 ### 2. Over-Managing
 
