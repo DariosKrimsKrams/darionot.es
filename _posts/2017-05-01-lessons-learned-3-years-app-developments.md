@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Software-Developer lessons learned: 3 years app product-from-scratch development"
+title:  "Lessons learned: 3 years Software-Products from scratch Development"
 date:   2017-05-01 12:00:00 +0100
 categories: blog
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Startup lessons learned: 3 years Entrepreneur"
+title:  "Startup lessons learned: 3 years Co-Founder & Entrepreneur at Tiny Roar"
 date:   2018-04-22 12:00:00 +0100
 categories: blog
 ---
