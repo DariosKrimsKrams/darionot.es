@@ -1,26 +1,29 @@
 ---
 layout: post
-title:  "3 ways killing your Agile Development"
+title:  "3 ways killing your Agile Software Development"
 date:   2020-07-06 12:00:00 +0100
 categories: blog
 ---
 
-# 3 ways killing your Agile Development
-oder:
-# Probleme eines Unternehmens bei der Digitalisierung
+# Erfahrungen über Probleme eines Unternehmens bei der Digitalisierung
 
-In diesem Blog-Artikel geht es rund um Prozesse eines Unternehmens und deren Probleme bei der Optimierung der Digitalisierung: Alle arbeiten nach Scrum und nennen ihre Software-Entwicklungs-Projekte agil, aber wo genau liegen Gründe für missglücktes Gelingen und stark verzögerte Umsetzungen. Meine Erfahrungen und Beobachtungen, warum sich opwohl theoretisch guter Vorgehensmodelle die Unternehmen suich in der Praxis schwer getan haben
+In diesem Blog-Artikel geht es
+rund um Prozesse eines Unternehmens und deren Probleme bei der Optimierung der Digitalisierung:
 
-### Status Quo
-  * Komplexe Prozesse wurden nie genug digitalisiert, dadurch manueller Aufwand
-  * Arbeitsschritte sind nicht gut skalierbar für ggf. saisonabhängige Stressphasen
-  * Unternehmen hat keine Prio auf Digitalisierung, dadurch sind digitalisierte Prozesse sind nicht zeitgemäßig für heutige Arbeitsweisen und ggf veränderte Anforderungen im Laufe der Jahre
-  * Fachabteilung sind betriebsbling in ihren Abläufen gefangen und erkennen Optimierungen nicht.
- 
-### Ursachen
-  * **Inexperience** seitens Personen in Manager-Positionen, die entscheiden können, was WICHTIG und was DRINGEND ist
-  * **Over-Managing** und das Verhältnis von Managern zu Entwicklern
-  * **Over-Process'ation** Ausarbeiten von diversen Prozesse und Werkzeuge, Über-pflegen von Dokumentation
+Bei Unternehmen sind die Vorteile von agiler Software-Entwicklung seit Jahren in aller Munde und nun seit Jahren versucht nun das Management eines Wasserfall-etabliertes Unternehmen ihre Software-Entwicklung Prozesse auf Agile, Kanban, Scrum etc. umstellen, aber dabei stellen sie fest, am Endanwender vorbeientwickelte Produkte entwickelt zu haben, eine unausreichende Stabilität und Fehlerhäufigkeit zu haben oder quälen sich mit stark verzögerten Einführungen neuer Features rum, welche Einhalten von Deadlines schwerfällt. Ursachen zur Entstehung dieser Problem:
+
+  * Komplexe Arbeitsschritte und manuelle Prozesse wurden nie (genug) digitalisiert, dadurch ständig manueller Aufwand
+  * Diese manuellen Arbeitsschritte sind nicht gut skalierbar (z.B. da Fachwissen erforderlich) für ggf. saisonabhängige Stressphasen, dadurch Blockieren der Fachkräften und starke Abhängigkeit zu diesen Mitarbeitern
+  * Fachabteilung sind inzwischen betriebsblind in ihren Abläufen gefangen und erkennen Optimierungs-Potential für Prozesse und Arbeitsweisen nicht oder sind durch Regeln zur vermeintlichen Risiko-Minimierung an diese Prozesse gebunden
+  * Das Management denkt altmodisch (kommt aus einer Wasserfall-etablierten Kultur) und hat keine Prio auf Digitalisierung, dadurch sind digitalisierte Prozesse nicht zeitgemäßig für heutige Arbeitsweisen sowie erschweren zukünftige Veränderungen, die von innen heraus sucht werden anzutreiben
+
+### Probleme
+
+Aber wo genau liegen Gründe für diese missglückten Gelingen und Umsetzungen? Hier meine Erfahrungen und Beobachtungen der Ausführung, warum sich obwohl theoretisch guter Vorgehensmodelle und ausreichend Buget diese Unternehmen sich in der Praxis schwer tun.
+
+  * **1. Inexperience** seitens Personen in Manager-Positionen, die entscheiden können, was WICHTIG und was DRINGEND ist
+  * **2. Over-Managing** und das Verhältnis von Managern zu Entwicklern
+  * **3. Over-Process'ation** Ausarbeiten von diversen Prozesse und Werkzeuge, Über-pflegen von Dokumentation
 
 #### 1. Inexperience
   * Priorisierung: Zu viel Prozess-Optimierung und Finetuning statt sich auf die Implementation der MVP Funktionalität zu beschränken

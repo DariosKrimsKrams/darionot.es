@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lessons learned: 3 Jahre Tiny Roar"
+title:  "Startup lessons learned: 3 years Entrepreneur"
 date:   2018-04-22 12:00:00 +0100
 categories: blog
 ---
