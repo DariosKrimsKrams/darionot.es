@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "3 ways killing your Agile Development"
-date:   2018-06-15 18:53:30 +0100
+date:   2020-07-06 12:00:00 +0100
 categories: blog
 ---
 
+# 3 ways killing your Agile Development
+oder:
 # Probleme eines Unternehmens bei der Digitalisierung
 
 In diesem Blog-Artikel geht es rund um Prozesse eines Unternehmens und deren Probleme bei der Optimierung der Digitalisierung: Alle arbeiten nach Scrum und nennen ihre Software-Entwicklungs-Projekte agil, aber wo genau liegen Gründe für missglücktes Gelingen und stark verzögerte Umsetzungen. Meine Erfahrungen und Beobachtungen, warum sich opwohl theoretisch guter Vorgehensmodelle die Unternehmen suich in der Praxis schwer getan haben
