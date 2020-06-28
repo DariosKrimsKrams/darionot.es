@@ -7,7 +7,7 @@ categories: blog
 
 ![Tiny Roar](/images/3yrtinyroar_teaser.jpg)
 
-Learnings und Fuckups aus Mitgründung von 3 Jahren [Tiny Roar][tinyroar] darstellen. Tiny Roar war meine erste Gründung, welche sich dem Schwerpuntk der Gamesentwicklungs zugesprochen hat. Gestartet Anfang 2015 mit zwei Mitgründern waren wir hauptsächlich aus Dienstleister aktiv.
+Learnings und Fuckups aus Mitgründung von 3 Jahren [Tiny Roar][tinyroar] darstellen. Tiny Roar war meine erste Gründung, welche sich dem Schwerpunkt der Games-Entwicklung verschrieben hat. Gestartet Anfang 2015 mit zwei Mitgründern möchte ich euch hier über 3 Jahre Entrepreneur-Abenteuer erzählen. Disclaimer: Sicher kann sich nicht jeder mit allem der hier beschriebenen Dinge identifizieren und eine andere Perspektive als meine zu vertreten ist gesund :).
 
 ## 1. Team
 
@@ -91,12 +91,12 @@ Tiny Roar hat in den letzten drei Jahren einen stetig steigenden (und jeweils mi
 ## 9. Emotionen
 
 * Zu viele **Emotionen** in die Entwicklung/Design/etc. der Produkte reingestreckt, was uns den Drive gegeben hat, über Jahre unseren Perfektionismus in die Produkte zu bringen. Dadurch war es uns nicht möglich, die Entwicklung des Unternehmens differenziert zu betrachten und wie wir Veränderung in unseren Strukturen und Prozessen tun müssen, unsere Ziele besser oder überhaupt zu erreichen.
-* **Hobby zum Beruf machen** und ähnliche Slogans waren immer in unseren Köpfen. Wir hatten ein hohes Qualitätsbewusstsein, und entschieden uns dafür, keine unfertigen Games (sogar Prototypen) abliefern zu wollen. Inzwischen denke ich oft, dass eine mehr US-amerikanisch etablierte Vorgehensweise á la "Fail Fast" System uns gefolgen hätte, frühzeitig Verbesserungen oder Kurswechsel zu erkennen.
+* **Hobby zum Beruf machen** war immer in unseren Köpfen. Wir hatten ein hohes Qualitätsbewusstsein, waren Detailverliebt, und entschieden uns dafür, keine unfertigen Games (und Prototypen) abliefern zu wollen. Inzwischen denke ich oft, dass eine mehr US-amerikanisch etablierte Vorgehensweise á la "Fail Fast" System uns gefolgen hätte, frühzeitig Verbesserungen oder Kurswechsel zu erkennen.
 
 ![Tiny Roar](/images/tinydrawing.png)
 
 ## 10. Schlusswort
 
-Betrachtet man die Erfolge unserer Projekte kritisch und differenziert, muss ich leider feststellen, dass wir alle Projekte am User vorbei entwickelt haben. Gleichzeitig haben wir auch scheinbar einiges Richtig gemacht, was B2B angeht, und konnten uns innerhalb der deutschen Games-Branche als Dienstleister etablieren. Unsere Misserfolge konnten die Frage aufwerfen, welche Prozesse und Erfahrungen gefehlt haben und weiterhin fehlen, im freien Markt erfolgreich zu sein oder die Business-Ausrichtung auf dem freien Markt generell infrage zu stellen. Ich hoffe, euch mit diesen Lessons Learned und Fuckups Einblicke in unsere Probleme geben zu können und hoffe, dass meine Tipps und Verbesserungsvorschläge helfen konnten, diese Fehler nicht zu wiederholen. Wie genau sie zu optimieren sind, das muss ich selbst noch herausfinden. Vielen Dank an Robert, Maurice, Sebastian und unsere Praktikanten, die uns bei dem Tiny Roar jahrelang Abenteuer zur Seite standen :)
+Danke, dass du bis hierhin gelesen hast. Zusammengefasst möchte die von uns entwickelten Games als "am User vorbeientwickelt" bezeichnen. Dennoch haben wir auch scheinbar einiges Richtig gemacht, z.B. was Gewinnung B2B Partnern angeht, und so konnten wir uns innerhalb der deutschen Games-Branche als Indie-Entwickler etablieren. Unsere Misserfolge könnten die Frage aufwerfen, welche Prozesse und Erfahrungen gefehlt haben und weiterhin fehlen, im freien Markt erfolgreich zu sein oder die Business-Ausrichtung auf dem freien Markt generell infrage zu stellen. Ich hoffe, euch mit diesen Lessons Learned und Fuckups Einblicke in unsere Probleme geben zu können und hoffe, dass meine Tipps und Verbesserungsvorschläge helfen konnten, diese Fehler nicht zu wiederholen. Vielen Dank an Robert, Maurice, Sebastian und unsere Praktikanten, die uns bei dem jahrelangen Tiny Roar Abenteuer zur Seite standen oder weiterhin stehen :)
 
 [tinyroar]: https://tinyroar.de
