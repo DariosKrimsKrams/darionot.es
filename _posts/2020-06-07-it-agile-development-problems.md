@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "3 ways killing your Agile Software Development"
+title:  "3 ways killing your agile Software Development as a Non-Tech company"
 date:   2020-07-06 12:00:00 +0100
 categories: blog
 ---
 
-# Probleme etablierter Unternehmens bei der Digitalisierung
+# Oder: Probleme etablierter Unternehmens bei der Digitalisierung
 
 In diesem Blog-Post geht es um Prozesse eines Unternehmens und deren Probleme und mögliche Fehler bei der Digitalisierung:
 
